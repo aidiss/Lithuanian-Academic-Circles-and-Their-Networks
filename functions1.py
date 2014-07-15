@@ -64,6 +64,15 @@ dsc_i_pilna  = {'01H':'Filosofija',
                 '09T':'Mechanikos inžinerija',
                 '10T':'Matavimų inžinerija'}
 
+
+HEADINGS_DF1=['dkt_vrd', 'dkt_dsc', 'dkt_ins', 'dkt_lps', 
+             'dis_tem', 'dis_ant',
+            'vdv_vrd', 'vdv_dsc', 'vdv_ins', 'vdv_pdl',
+            'prm_vrd', 'prm_dsc', 'prm_ins', 'prm_pdl',
+            'opn_vrd', 'opn_dsc', 'opn_ins', 'opn_pdl',
+            'trb',
+            'gyn_lks', 'gyn_vta'])
+
 mylist = []
 def mainALL():
     apie_viena_gynima = []
@@ -120,6 +129,7 @@ rezultatas = mainALL()
 HEADINGS = ['skl_ins', 'data_lks', 'vieta', 'dkt',
             'tema', 'rng_ins', 'vdv', 'prm', 
             'nariai', 'taryba', 'opn', 'anotacija']
+
 df = pd.DataFrame(rezultatas,columns=HEADINGS)
 
 unlist = lambda l: l[0] if len(l) != 0 else None
