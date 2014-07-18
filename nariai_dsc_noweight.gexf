@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?><gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="06P" label="FizinÄ geografija" />
+      <node id="06S" label="Psichologija" />
+      <node id="02A" label="Veterinarija" />
+      <node id="06T" label="Energetika ir termoinÅ¾inerija" />
+      <node id="02B" label="Biofizika" />
+      <node id="02H" label="Teologija" />
+      <node id="02T" label="Statybos inÅ¾inerija" />
+      <node id="06B" label="Medicina" />
+      <node id="02P" label="Fizika" />
+      <node id="02S" label="Politikos mokslai" />
+      <node id="06H" label="komunikacija" />
+      <node id="01A" label="Agronomija" />
+      <node id="03H" label="Menotyra" />
+      <node id="13B" label="Nauja bio" />
+      <node id="01B" label="Biologija" />
+      <node id="05H" label="Istorija" />
+      <node id="09P" label="Informatika" />
+      <node id="09T" label="Mechanikos inÅ¾inerija" />
+      <node id="01P" label="Matematika" />
+      <node id="01H" label="Filosofija" />
+      <node id="01S" label="TeisÄ" />
+      <node id="01T" label="Elektros ir elektronikos inÅ¾inerija" />
+      <node id="05T" label="Chemijos inÅ¾inerija" />
+      <node id="09B" label="VisuomenÄs sveikata" />
+      <node id="05P" label="Geologija" />
+      <node id="05S" label="Sociologija" />
+      <node id="04H" label="Filologija" />
+      <node id="10B" label="Slauga" />
+      <node id="04B" label="Botanika" />
+      <node id="08T" label="MedÅ¾iagÅ³ inÅ¾inerija" />
+      <node id="14B" label="Nauja bio" />
+      <node id="08B" label="Farmacija" />
+      <node id="04T" label="Aplinkos inÅ¾inerija" />
+      <node id="04S" label="Ekonomika" />
+      <node id="10T" label="MatavimÅ³ inÅ¾inerija" />
+      <node id="04P" label="Biochemija" />
+      <node id="12B" label="Nauja bio" />
+      <node id="07T" label="Informatikos inÅ¾inerija" />
+      <node id="07S" label="Edukologija" />
+      <node id="03B" label="Ekologija ir aplinkotyra" />
+      <node id="03A" label="Zootechnika" />
+      <node id="07B" label="Odontologija" />
+      <node id="07H" label="Etnologija" />
+      <node id="03S" label="Vadyba" />
+      <node id="03P" label="Chemija" />
+      <node id="03T" label="Transporto inÅ¾inerija" />
+    </nodes>
+    <edges>
+      <edge id="0" source="03A" target="05T" />
+      <edge id="1" source="03A" target="01B" />
+      <edge id="2" source="03A" target="02A" />
+      <edge id="3" source="04B" target="03B" />
+      <edge id="4" source="04B" target="03P" />
+      <edge id="5" source="04B" target="01B" />
+      <edge id="6" source="04B" target="06B" />
+      <edge id="7" source="04B" target="09B" />
+      <edge id="8" source="03B" target="06P" />
+      <edge id="9" source="03B" target="01B" />
+      <edge id="10" source="03B" target="09P" />
+      <edge id="11" source="03B" target="02T" />
+      <edge id="12" source="03B" target="01S" />
+      <edge id="13" source="03B" target="05T" />
+      <edge id="14" source="03B" target="06B" />
+      <edge id="15" source="03B" target="09B" />
+      <edge id="16" source="03B" target="04T" />
+      <edge id="17" source="06P" target="09P" />
+      <edge id="18" source="06P" target="04T" />
+      <edge id="19" source="06P" target="05P" />
+      <edge id="20" source="06S" target="07T" />
+      <edge id="21" source="06S" target="07S" />
+      <edge id="22" source="06S" target="04H" />
+      <edge id="23" source="06S" target="01H" />
+      <edge id="24" source="06S" target="03H" />
+      <edge id="25" source="06S" target="06B" />
+      <edge id="26" source="06S" target="01S" />
+      <edge id="27" source="06S" target="01B" />
+      <edge id="28" source="06S" target="03S" />
+      <edge id="29" source="06S" target="09B" />
+      <edge id="30" source="06S" target="07H" />
+      <edge id="31" source="06S" target="05S" />
+      <edge id="32" source="02A" target="05T" />
+      <edge id="33" source="02A" target="01A" />
+      <edge id="34" source="02A" target="01B" />
+      <edge id="35" source="06T" target="09T" />
+      <edge id="36" source="06T" target="08T" />
+      <edge id="37" source="06T" target="02T" />
+      <edge id="38" source="06T" target="01S" />
+      <edge id="39" source="06T" target="01T" />
+      <edge id="40" source="06T" target="02P" />
+      <edge id="41" source="06T" target="04T" />
+      <edge id="42" source="06T" target="04S" />
+      <edge id="43" source="06T" target="03T" />
+      <edge id="44" source="06T" target="10T" />
+      <edge id="45" source="02B" target="07T" />
+      <edge id="46" source="02B" target="12B" />
+      <edge id="47" source="02B" target="10B" />
+      <edge id="48" source="02B" target="01B" />
+      <edge id="49" source="02B" target="08T" />
+      <edge id="50" source="02B" target="06B" />
+      <edge id="51" source="02B" target="07B" />
+      <edge id="52" source="02B" target="02P" />
+      <edge id="53" source="02B" target="10T" />
+      <edge id="54" source="02B" target="04P" />
+      <edge id="55" source="10B" target="01S" />
+      <edge id="56" source="10B" target="07S" />
+      <edge id="57" source="10B" target="06B" />
+      <edge id="58" source="10B" target="07B" />
+      <edge id="59" source="10B" target="03S" />
+      <edge id="60" source="10B" target="09B" />
+      <edge id="61" source="10B" target="05S" />
+      <edge id="62" source="02H" target="01H" />
+      <edge id="63" source="02H" target="03S" />
+      <edge id="64" source="02H" target="01S" />
+      <edge id="65" source="02H" target="07S" />
+      <edge id="66" source="08T" target="09T" />
+      <edge id="67" source="08T" target="02T" />
+      <edge id="68" source="08T" target="06B" />
+      <edge id="69" source="08T" target="14B" />
+      <edge id="70" source="08T" target="02P" />
+      <edge id="71" source="08T" target="05T" />
+      <edge id="72" source="08T" target="03P" />
+      <edge id="73" source="08T" target="04T" />
+      <edge id="74" source="02T" target="03H" />
+      <edge id="75" source="02T" target="05H" />
+      <edge id="76" source="02T" target="09T" />
+      <edge id="77" source="02T" target="07T" />
+      <edge id="78" source="02T" target="01P" />
+      <edge id="79" source="02T" target="09P" />
+      <edge id="80" source="02T" target="10T" />
+      <edge id="81" source="02T" target="05T" />
+      <edge id="82" source="02T" target="03S" />
+      <edge id="83" source="02T" target="03P" />
+      <edge id="84" source="02T" target="04T" />
+      <edge id="85" source="02T" target="04S" />
+      <edge id="86" source="02T" target="03T" />
+      <edge id="87" source="06B" target="02P" />
+      <edge id="88" source="06B" target="07B" />
+      <edge id="89" source="06B" target="04T" />
+      <edge id="90" source="06B" target="04S" />
+      <edge id="91" source="06B" target="10T" />
+      <edge id="92" source="06B" target="07T" />
+      <edge id="93" source="06B" target="08B" />
+      <edge id="94" source="06B" target="03P" />
+      <edge id="95" source="06B" target="13B" />
+      <edge id="96" source="06B" target="01B" />
+      <edge id="97" source="06B" target="09P" />
+      <edge id="98" source="06B" target="01S" />
+      <edge id="99" source="06B" target="01T" />
+      <edge id="100" source="06B" target="05T" />
+      <edge id="101" source="06B" target="03S" />
+      <edge id="102" source="06B" target="09B" />
+      <edge id="103" source="06B" target="05S" />
+      <edge id="104" source="02P" target="07S" />
+      <edge id="105" source="02P" target="09T" />
+      <edge id="106" source="02P" target="01T" />
+      <edge id="107" source="02P" target="07B" />
+      <edge id="108" source="02P" target="03P" />
+      <edge id="109" source="02P" target="04T" />
+      <edge id="110" source="02P" target="03T" />
+      <edge id="111" source="02S" target="01H" />
+      <edge id="112" source="02S" target="03S" />
+      <edge id="113" source="02S" target="01S" />
+      <edge id="114" source="02S" target="04S" />
+      <edge id="115" source="02S" target="05S" />
+      <edge id="116" source="07T" target="01T" />
+      <edge id="117" source="07T" target="07S" />
+      <edge id="118" source="07T" target="09P" />
+      <edge id="119" source="07T" target="09T" />
+      <edge id="120" source="07T" target="12B" />
+      <edge id="121" source="07T" target="01P" />
+      <edge id="122" source="07T" target="07B" />
+      <edge id="123" source="07T" target="05T" />
+      <edge id="124" source="07T" target="03S" />
+      <edge id="125" source="07T" target="09B" />
+      <edge id="126" source="07T" target="10T" />
+      <edge id="127" source="06H" target="05S" />
+      <edge id="128" source="04T" target="01B" />
+      <edge id="129" source="04T" target="04S" />
+      <edge id="130" source="04T" target="13B" />
+      <edge id="131" source="04T" target="03H" />
+      <edge id="132" source="04T" target="12B" />
+      <edge id="133" source="04T" target="05T" />
+      <edge id="134" source="04T" target="03S" />
+      <edge id="135" source="04T" target="09B" />
+      <edge id="136" source="04T" target="05P" />
+      <edge id="137" source="04T" target="03P" />
+      <edge id="138" source="04S" target="05S" />
+      <edge id="139" source="04S" target="01P" />
+      <edge id="140" source="04S" target="01S" />
+      <edge id="141" source="04S" target="01T" />
+      <edge id="142" source="04S" target="03T" />
+      <edge id="143" source="04S" target="03S" />
+      <edge id="144" source="04S" target="09B" />
+      <edge id="145" source="04S" target="10T" />
+      <edge id="146" source="04S" target="07S" />
+      <edge id="147" source="10T" target="09P" />
+      <edge id="148" source="10T" target="09T" />
+      <edge id="149" source="10T" target="01T" />
+      <edge id="150" source="10T" target="03S" />
+      <edge id="151" source="04P" target="01B" />
+      <edge id="152" source="04P" target="03P" />
+      <edge id="153" source="07B" target="12B" />
+      <edge id="154" source="07B" target="01S" />
+      <edge id="155" source="07B" target="05H" />
+      <edge id="156" source="07B" target="07S" />
+      <edge id="157" source="07B" target="04H" />
+      <edge id="158" source="07B" target="09T" />
+      <edge id="159" source="07B" target="01P" />
+      <edge id="160" source="07B" target="01T" />
+      <edge id="161" source="07B" target="01B" />
+      <edge id="162" source="07B" target="08B" />
+      <edge id="163" source="07B" target="09B" />
+      <edge id="164" source="13B" target="05T" />
+      <edge id="165" source="01B" target="12B" />
+      <edge id="166" source="01B" target="07S" />
+      <edge id="167" source="01B" target="09T" />
+      <edge id="168" source="01B" target="08B" />
+      <edge id="169" source="01B" target="05T" />
+      <edge id="170" source="01B" target="03S" />
+      <edge id="171" source="01B" target="09B" />
+      <edge id="172" source="01B" target="03P" />
+      <edge id="173" source="08B" target="05T" />
+      <edge id="174" source="08B" target="03S" />
+      <edge id="175" source="08B" target="09B" />
+      <edge id="176" source="08B" target="03P" />
+      <edge id="177" source="03P" target="01A" />
+      <edge id="178" source="03P" target="12B" />
+      <edge id="179" source="03P" target="05T" />
+      <edge id="180" source="03P" target="09B" />
+      <edge id="181" source="01A" target="05T" />
+      <edge id="182" source="03H" target="05H" />
+      <edge id="183" source="03H" target="07S" />
+      <edge id="184" source="03H" target="04H" />
+      <edge id="185" source="03H" target="01H" />
+      <edge id="186" source="03H" target="07H" />
+      <edge id="187" source="03H" target="05S" />
+      <edge id="188" source="12B" target="01P" />
+      <edge id="189" source="12B" target="05T" />
+      <edge id="190" source="12B" target="01T" />
+      <edge id="191" source="05H" target="07S" />
+      <edge id="192" source="05H" target="04H" />
+      <edge id="193" source="05H" target="01S" />
+      <edge id="194" source="05H" target="03S" />
+      <edge id="195" source="05H" target="05P" />
+      <edge id="196" source="07S" target="04H" />
+      <edge id="197" source="07S" target="01P" />
+      <edge id="198" source="07S" target="01H" />
+      <edge id="199" source="07S" target="01S" />
+      <edge id="200" source="07S" target="05T" />
+      <edge id="201" source="07S" target="03S" />
+      <edge id="202" source="07S" target="09B" />
+      <edge id="203" source="07S" target="07H" />
+      <edge id="204" source="07S" target="05S" />
+      <edge id="205" source="09P" target="01S" />
+      <edge id="206" source="09P" target="09T" />
+      <edge id="207" source="09P" target="01P" />
+      <edge id="208" source="09P" target="01T" />
+      <edge id="209" source="09P" target="05T" />
+      <edge id="210" source="04H" target="01H" />
+      <edge id="211" source="04H" target="07H" />
+      <edge id="212" source="09T" target="01P" />
+      <edge id="213" source="09T" target="01S" />
+      <edge id="214" source="09T" target="01T" />
+      <edge id="215" source="09T" target="03T" />
+      <edge id="216" source="01H" target="01S" />
+      <edge id="217" source="01H" target="03S" />
+      <edge id="218" source="01H" target="07H" />
+      <edge id="219" source="01H" target="05S" />
+      <edge id="220" source="01S" target="03S" />
+      <edge id="221" source="01S" target="09B" />
+      <edge id="222" source="01S" target="05S" />
+      <edge id="223" source="01T" target="03T" />
+      <edge id="224" source="01T" target="03S" />
+      <edge id="225" source="03T" target="03S" />
+      <edge id="226" source="05T" target="09B" />
+      <edge id="227" source="03S" target="05S" />
+      <edge id="228" source="03S" target="09B" />
+      <edge id="229" source="09B" target="05S" />
+    </edges>
+  </graph>
+</gexf>

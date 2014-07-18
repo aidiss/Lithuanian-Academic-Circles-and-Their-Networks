@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8"?><gexf xmlns:ns0="http://www.gexf.net/1.1draft/viz" version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="03A" label="Zootechnika">
+        <ns0:color b="219" g="112" r="157" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="02H" label="Teologija">
+        <ns0:color b="0" g="0" r="255" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="06S" label="Psichologija">
+        <ns0:color b="0" g="69" r="255" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="03B" label="Ekologija ir aplinkotyra">
+        <ns0:color b="225" g="105" r="65" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="06P" label="Fizinė geografija">
+        <ns0:color b="0" g="215" r="255" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="12B" label="NE TA KLASIFIKACIJA">
+        <ns0:color b="225" g="105" r="65" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="02A" label="Veterinarija">
+        <ns0:color b="219" g="112" r="157" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="06T" label="Energetika ir termoinžinerija">
+        <ns0:color b="34" g="139" r="34" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="02B" label="Biofizika">
+        <ns0:color b="225" g="105" r="65" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="10B" label="Slauga">
+        <ns0:color b="225" g="105" r="65" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="04B" label="Botanika">
+        <ns0:color b="225" g="105" r="65" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="08T" label="Medžiagų inžinerija">
+        <ns0:color b="34" g="139" r="34" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="02T" label="Statybos inžinerija">
+        <ns0:color b="34" g="139" r="34" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="06B" label="Medicina">
+        <ns0:color b="225" g="105" r="65" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="14B" label="NE TA KLASIFIKACIJA">
+        <ns0:color b="225" g="105" r="65" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="02P" label="Fizika">
+        <ns0:color b="0" g="215" r="255" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="02S" label="Politikos mokslai">
+        <ns0:color b="0" g="69" r="255" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="07T" label="Informatikos inžinerija">
+        <ns0:color b="34" g="139" r="34" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="07B" label="Odontologija">
+        <ns0:color b="225" g="105" r="65" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="04T" label="Aplinkos inžinerija">
+        <ns0:color b="34" g="139" r="34" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="04S" label="Ekonomika">
+        <ns0:color b="0" g="69" r="255" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="10T" label="Matavimų inžinerija">
+        <ns0:color b="34" g="139" r="34" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="04P" label="Biochemija">
+        <ns0:color b="0" g="215" r="255" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="08B" label="Farmacija">
+        <ns0:color b="225" g="105" r="65" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="01B" label="Biologija">
+        <ns0:color b="225" g="105" r="65" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="01A" label="Agronomija">
+        <ns0:color b="219" g="112" r="157" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="06H" label="NE TA KLASIFIKACIJA">
+        <ns0:color b="0" g="0" r="255" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="03P" label="Chemija">
+        <ns0:color b="0" g="215" r="255" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="13B" label="NE TA KLASIFIKACIJA">
+        <ns0:color b="225" g="105" r="65" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="03H" label="Menotyra">
+        <ns0:color b="0" g="0" r="255" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="05H" label="Istorija">
+        <ns0:color b="0" g="0" r="255" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="07S" label="Edukologija">
+        <ns0:color b="0" g="69" r="255" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="11B" label="NE TA KLASIFIKACIJA">
+        <ns0:color b="225" g="105" r="65" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="01H" label="Filosofija">
+        <ns0:color b="0" g="0" r="255" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="04H" label="Filologija">
+        <ns0:color b="0" g="0" r="255" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="09T" label="Mechanikos inžinerija">
+        <ns0:color b="34" g="139" r="34" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="01P" label="Matematika">
+        <ns0:color b="0" g="215" r="255" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="09P" label="Informatika">
+        <ns0:color b="0" g="215" r="255" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="01S" label="Teisė">
+        <ns0:color b="0" g="69" r="255" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="01T" label="Elektros ir elektronikos inžinerija">
+        <ns0:color b="34" g="139" r="34" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="07H" label="Etnologija">
+        <ns0:color b="0" g="0" r="255" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="05T" label="Chemijos inžinerija">
+        <ns0:color b="34" g="139" r="34" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="03S" label="Vadyba">
+        <ns0:color b="0" g="69" r="255" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="09B" label="Visuomenės sveikata">
+        <ns0:color b="225" g="105" r="65" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="05P" label="Geologija">
+        <ns0:color b="0" g="215" r="255" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="03T" label="Transporto inžinerija">
+        <ns0:color b="34" g="139" r="34" />
+        <ns0:size value="2.0375757" />
+      </node>
+      <node id="05S" label="Sociologija">
+        <ns0:color b="0" g="69" r="255" />
+        <ns0:size value="2.0375757" />
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="03A" target="05T" weight="6" />
+      <edge id="1" source="03A" target="01B" weight="10" />
+      <edge id="2" source="03A" target="02A" weight="5" />
+      <edge id="3" source="02H" target="01H" weight="1" />
+      <edge id="4" source="02H" target="03S" weight="3" />
+      <edge id="5" source="02H" target="01S" weight="6" />
+      <edge id="6" source="02H" target="07S" weight="1" />
+      <edge id="7" source="06S" target="07T" weight="1" />
+      <edge id="8" source="06S" target="07S" weight="29" />
+      <edge id="9" source="06S" target="04H" weight="1" />
+      <edge id="10" source="06S" target="01H" weight="1" />
+      <edge id="11" source="06S" target="03H" weight="1" />
+      <edge id="12" source="06S" target="06B" weight="2" />
+      <edge id="13" source="06S" target="01S" weight="2" />
+      <edge id="14" source="06S" target="01B" weight="1" />
+      <edge id="15" source="06S" target="03S" weight="2" />
+      <edge id="16" source="06S" target="09B" weight="1" />
+      <edge id="17" source="06S" target="07H" weight="1" />
+      <edge id="18" source="06S" target="05S" weight="2" />
+      <edge id="19" source="03B" target="06P" weight="1" />
+      <edge id="20" source="03B" target="01B" weight="3" />
+      <edge id="21" source="03B" target="01S" weight="1" />
+      <edge id="22" source="03B" target="09P" weight="1" />
+      <edge id="23" source="03B" target="04B" weight="2" />
+      <edge id="24" source="03B" target="02T" weight="1" />
+      <edge id="25" source="03B" target="06B" weight="2" />
+      <edge id="26" source="03B" target="14B" weight="1" />
+      <edge id="27" source="03B" target="05T" weight="1" />
+      <edge id="28" source="03B" target="09B" weight="3" />
+      <edge id="29" source="03B" target="04T" weight="4" />
+      <edge id="30" source="06P" target="09P" weight="1" />
+      <edge id="31" source="06P" target="04T" weight="2" />
+      <edge id="32" source="06P" target="05P" weight="1" />
+      <edge id="33" source="12B" target="01B" weight="3" />
+      <edge id="34" source="12B" target="02B" weight="1" />
+      <edge id="35" source="12B" target="07T" weight="1" />
+      <edge id="36" source="12B" target="01P" weight="1" />
+      <edge id="37" source="12B" target="01T" weight="2" />
+      <edge id="38" source="12B" target="05T" weight="1" />
+      <edge id="39" source="12B" target="07B" weight="15" />
+      <edge id="40" source="12B" target="03P" weight="1" />
+      <edge id="41" source="12B" target="04T" weight="1" />
+      <edge id="42" source="02A" target="05T" weight="3" />
+      <edge id="43" source="02A" target="01A" weight="1" />
+      <edge id="44" source="02A" target="01B" weight="8" />
+      <edge id="45" source="06T" target="09T" weight="4" />
+      <edge id="46" source="06T" target="08T" weight="3" />
+      <edge id="47" source="06T" target="02T" weight="4" />
+      <edge id="48" source="06T" target="01S" weight="1" />
+      <edge id="49" source="06T" target="01T" weight="11" />
+      <edge id="50" source="06T" target="10T" weight="4" />
+      <edge id="51" source="06T" target="04T" weight="2" />
+      <edge id="52" source="06T" target="04S" weight="3" />
+      <edge id="53" source="06T" target="03T" weight="3" />
+      <edge id="54" source="06T" target="02P" weight="7" />
+      <edge id="55" source="02B" target="01B" weight="7" />
+      <edge id="56" source="02B" target="10B" weight="1" />
+      <edge id="57" source="02B" target="08T" weight="1" />
+      <edge id="58" source="02B" target="07T" weight="1" />
+      <edge id="59" source="02B" target="06B" weight="5" />
+      <edge id="60" source="02B" target="07B" weight="2" />
+      <edge id="61" source="02B" target="02P" weight="1" />
+      <edge id="62" source="02B" target="10T" weight="1" />
+      <edge id="63" source="02B" target="04P" weight="1" />
+      <edge id="64" source="10B" target="07S" weight="3" />
+      <edge id="65" source="10B" target="11B" weight="2" />
+      <edge id="66" source="10B" target="06B" weight="1" />
+      <edge id="67" source="10B" target="01S" weight="1" />
+      <edge id="68" source="10B" target="07B" weight="5" />
+      <edge id="69" source="10B" target="03S" weight="2" />
+      <edge id="70" source="10B" target="09B" weight="1" />
+      <edge id="71" source="10B" target="05S" weight="1" />
+      <edge id="72" source="04B" target="01B" weight="1" />
+      <edge id="73" source="04B" target="09B" weight="1" />
+      <edge id="74" source="04B" target="06B" weight="1" />
+      <edge id="75" source="04B" target="03P" weight="1" />
+      <edge id="76" source="08T" target="09T" weight="6" />
+      <edge id="77" source="08T" target="02T" weight="4" />
+      <edge id="78" source="08T" target="06B" weight="1" />
+      <edge id="79" source="08T" target="14B" weight="1" />
+      <edge id="80" source="08T" target="02P" weight="8" />
+      <edge id="81" source="08T" target="05T" weight="11" />
+      <edge id="82" source="08T" target="03P" weight="6" />
+      <edge id="83" source="08T" target="04T" weight="1" />
+      <edge id="84" source="02T" target="03H" weight="2" />
+      <edge id="85" source="02T" target="05H" weight="1" />
+      <edge id="86" source="02T" target="09T" weight="5" />
+      <edge id="87" source="02T" target="07T" weight="1" />
+      <edge id="88" source="02T" target="01P" weight="1" />
+      <edge id="89" source="02T" target="09P" weight="2" />
+      <edge id="90" source="02T" target="03T" weight="1" />
+      <edge id="91" source="02T" target="05T" weight="1" />
+      <edge id="92" source="02T" target="03S" weight="1" />
+      <edge id="93" source="02T" target="03P" weight="1" />
+      <edge id="94" source="02T" target="04T" weight="4" />
+      <edge id="95" source="02T" target="04S" weight="2" />
+      <edge id="96" source="02T" target="10T" weight="2" />
+      <edge id="97" source="06B" target="02P" weight="2" />
+      <edge id="98" source="06B" target="07B" weight="2" />
+      <edge id="99" source="06B" target="04T" weight="1" />
+      <edge id="100" source="06B" target="04S" weight="1" />
+      <edge id="101" source="06B" target="10T" weight="2" />
+      <edge id="102" source="06B" target="07T" weight="3" />
+      <edge id="103" source="06B" target="08B" weight="1" />
+      <edge id="104" source="06B" target="09B" weight="17" />
+      <edge id="105" source="06B" target="13B" weight="1" />
+      <edge id="106" source="06B" target="01B" weight="13" />
+      <edge id="107" source="06B" target="09P" weight="1" />
+      <edge id="108" source="06B" target="01S" weight="1" />
+      <edge id="109" source="06B" target="01T" weight="2" />
+      <edge id="110" source="06B" target="05T" weight="8" />
+      <edge id="111" source="06B" target="03S" weight="1" />
+      <edge id="112" source="06B" target="03P" weight="2" />
+      <edge id="113" source="06B" target="05S" weight="1" />
+      <edge id="114" source="02P" target="07S" weight="1" />
+      <edge id="115" source="02P" target="09T" weight="3" />
+      <edge id="116" source="02P" target="01T" weight="3" />
+      <edge id="117" source="02P" target="07B" weight="1" />
+      <edge id="118" source="02P" target="03P" weight="4" />
+      <edge id="119" source="02P" target="04T" weight="1" />
+      <edge id="120" source="02P" target="03T" weight="1" />
+      <edge id="121" source="02S" target="01H" weight="2" />
+      <edge id="122" source="02S" target="03S" weight="2" />
+      <edge id="123" source="02S" target="01S" weight="1" />
+      <edge id="124" source="02S" target="04S" weight="1" />
+      <edge id="125" source="02S" target="05S" weight="5" />
+      <edge id="126" source="07T" target="07S" weight="4" />
+      <edge id="127" source="07T" target="09P" weight="31" />
+      <edge id="128" source="07T" target="09T" weight="13" />
+      <edge id="129" source="07T" target="01P" weight="4" />
+      <edge id="130" source="07T" target="01T" weight="16" />
+      <edge id="131" source="07T" target="03S" weight="1" />
+      <edge id="132" source="07T" target="05T" weight="1" />
+      <edge id="133" source="07T" target="07B" weight="4" />
+      <edge id="134" source="07T" target="09B" weight="1" />
+      <edge id="135" source="07T" target="10T" weight="1" />
+      <edge id="136" source="07B" target="05H" weight="1" />
+      <edge id="137" source="07B" target="07S" weight="2" />
+      <edge id="138" source="07B" target="04H" weight="1" />
+      <edge id="139" source="07B" target="09T" weight="1" />
+      <edge id="140" source="07B" target="01B" weight="12" />
+      <edge id="141" source="07B" target="11B" weight="3" />
+      <edge id="142" source="07B" target="01P" weight="2" />
+      <edge id="143" source="07B" target="01S" weight="2" />
+      <edge id="144" source="07B" target="01T" weight="6" />
+      <edge id="145" source="07B" target="08B" weight="5" />
+      <edge id="146" source="07B" target="09B" weight="1" />
+      <edge id="147" source="07B" target="05S" weight="1" />
+      <edge id="148" source="04T" target="13B" weight="1" />
+      <edge id="149" source="04T" target="01B" weight="1" />
+      <edge id="150" source="04T" target="05P" weight="1" />
+      <edge id="151" source="04T" target="03H" weight="5" />
+      <edge id="152" source="04T" target="05T" weight="7" />
+      <edge id="153" source="04T" target="03S" weight="1" />
+      <edge id="154" source="04T" target="03P" weight="7" />
+      <edge id="155" source="04T" target="04S" weight="2" />
+      <edge id="156" source="04T" target="09B" weight="1" />
+      <edge id="157" source="04S" target="07S" weight="1" />
+      <edge id="158" source="04S" target="01P" weight="1" />
+      <edge id="159" source="04S" target="01S" weight="10" />
+      <edge id="160" source="04S" target="01T" weight="1" />
+      <edge id="161" source="04S" target="03T" weight="1" />
+      <edge id="162" source="04S" target="03S" weight="36" />
+      <edge id="163" source="04S" target="09B" weight="1" />
+      <edge id="164" source="04S" target="10T" weight="2" />
+      <edge id="165" source="04S" target="05S" weight="4" />
+      <edge id="166" source="10T" target="09P" weight="1" />
+      <edge id="167" source="10T" target="09T" weight="2" />
+      <edge id="168" source="10T" target="01T" weight="3" />
+      <edge id="169" source="10T" target="03S" weight="2" />
+      <edge id="170" source="04P" target="01B" weight="2" />
+      <edge id="171" source="04P" target="03P" weight="1" />
+      <edge id="172" source="08B" target="01B" weight="2" />
+      <edge id="173" source="08B" target="05T" weight="2" />
+      <edge id="174" source="08B" target="03S" weight="1" />
+      <edge id="175" source="08B" target="03P" weight="4" />
+      <edge id="176" source="08B" target="09B" weight="1" />
+      <edge id="177" source="01B" target="07S" weight="5" />
+      <edge id="178" source="01B" target="09T" weight="2" />
+      <edge id="179" source="01B" target="05T" weight="10" />
+      <edge id="180" source="01B" target="03S" weight="1" />
+      <edge id="181" source="01B" target="03P" weight="2" />
+      <edge id="182" source="01B" target="09B" weight="2" />
+      <edge id="183" source="01A" target="05T" weight="2" />
+      <edge id="184" source="01A" target="03P" weight="1" />
+      <edge id="185" source="06H" target="01S" weight="1" />
+      <edge id="186" source="06H" target="05S" weight="1" />
+      <edge id="187" source="03P" target="05T" weight="25" />
+      <edge id="188" source="03P" target="09B" weight="4" />
+      <edge id="189" source="13B" target="05T" weight="2" />
+      <edge id="190" source="03H" target="05H" weight="7" />
+      <edge id="191" source="03H" target="07S" weight="2" />
+      <edge id="192" source="03H" target="04H" weight="7" />
+      <edge id="193" source="03H" target="01H" weight="11" />
+      <edge id="194" source="03H" target="07H" weight="5" />
+      <edge id="195" source="03H" target="05S" weight="1" />
+      <edge id="196" source="05H" target="07S" weight="1" />
+      <edge id="197" source="05H" target="04H" weight="4" />
+      <edge id="198" source="05H" target="01S" weight="4" />
+      <edge id="199" source="05H" target="03S" weight="1" />
+      <edge id="200" source="05H" target="05P" weight="1" />
+      <edge id="201" source="07S" target="04H" weight="3" />
+      <edge id="202" source="07S" target="01P" weight="1" />
+      <edge id="203" source="07S" target="01S" weight="2" />
+      <edge id="204" source="07S" target="05T" weight="1" />
+      <edge id="205" source="07S" target="03S" weight="15" />
+      <edge id="206" source="07S" target="09B" weight="2" />
+      <edge id="207" source="07S" target="01H" weight="4" />
+      <edge id="208" source="07S" target="07H" weight="5" />
+      <edge id="209" source="07S" target="05S" weight="11" />
+      <edge id="210" source="11B" target="01T" weight="1" />
+      <edge id="211" source="11B" target="05S" weight="1" />
+      <edge id="212" source="01H" target="04H" weight="4" />
+      <edge id="213" source="01H" target="01S" weight="3" />
+      <edge id="214" source="01H" target="03S" weight="1" />
+      <edge id="215" source="01H" target="07H" weight="1" />
+      <edge id="216" source="01H" target="05S" weight="5" />
+      <edge id="217" source="04H" target="07H" weight="1" />
+      <edge id="218" source="09T" target="09P" weight="3" />
+      <edge id="219" source="09T" target="01P" weight="1" />
+      <edge id="220" source="09T" target="01S" weight="1" />
+      <edge id="221" source="09T" target="03T" weight="9" />
+      <edge id="222" source="09T" target="01T" weight="3" />
+      <edge id="223" source="01P" target="09P" weight="3" />
+      <edge id="224" source="09P" target="01S" weight="1" />
+      <edge id="225" source="09P" target="01T" weight="5" />
+      <edge id="226" source="09P" target="05T" weight="1" />
+      <edge id="227" source="01S" target="03S" weight="27" />
+      <edge id="228" source="01S" target="09B" weight="1" />
+      <edge id="229" source="01S" target="05S" weight="4" />
+      <edge id="230" source="01T" target="03T" weight="1" />
+      <edge id="231" source="01T" target="03S" weight="1" />
+      <edge id="232" source="05T" target="09B" weight="2" />
+      <edge id="233" source="03S" target="09B" weight="2" />
+      <edge id="234" source="03S" target="03T" weight="1" />
+      <edge id="235" source="03S" target="05S" weight="7" />
+      <edge id="236" source="09B" target="05S" weight="1" />
+    </edges>
+  </graph>
+</gexf>
