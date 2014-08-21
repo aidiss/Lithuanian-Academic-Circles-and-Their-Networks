@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="utf-8"?><gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="sritis" type="string" />
+      <attribute id="1" title="tipas" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Lazerinė technologija" label="Lazerinė technologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Botanika" label="Botanika">
+        <attvalues>
+          <attvalue for="0" value="Biomedicinos mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Geologija" label="Geologija">
+        <attvalues>
+          <attvalue for="0" value="Fiziniai mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Aplinkos fizika" label="Aplinkos fizika">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Karo inžinerija" label="Karo inžinerija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Slauga" label="Slauga">
+        <attvalues>
+          <attvalue for="0" value="Biomedicinos mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Diferencialinės lygtys" label="Diferencialinės lygtys">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Toksikologija" label="Toksikologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Matavimų inžinerija" label="Matavimų inžinerija">
+        <attvalues>
+          <attvalue for="0" value="Technologijos mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Reliatyvizmas" label="Reliatyvizmas">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Informatikos inžinerija" label="Informatikos inžinerija">
+        <attvalues>
+          <attvalue for="0" value="Technologijos mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Matematinis programavimas" label="Matematinis programavimas">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Transporto inžinerija" label="Transporto inžinerija">
+        <attvalues>
+          <attvalue for="0" value="Technologijos mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Anatomija" label="Anatomija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Augalu genetika ir selekcija" label="Augalu genetika ir selekcija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Mikologija" label="Mikologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Robotika" label="Robotika">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Pakavimo technologija" label="Pakavimo technologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Intensyvi terapija" label="Intensyvi terapija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Krantotyra" label="Krantotyra">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Filogenezė" label="Filogenezė">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Taikomoji matematika" label="Taikomoji matematika">
+        <attvalues>
+          <attvalue for="0" value="Fiziniai mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Aplinkotyra" label="Aplinkotyra">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Biochemija" label="Biochemija">
+        <attvalues>
+          <attvalue for="0" value="Biomedicinos mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Sistematika ir taksonomija" label="Sistematika ir taksonomija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Kosminė technologija" label="Kosminė technologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Astrochemija" label="Astrochemija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Varikliai ir jėgainės" label="Varikliai ir jėgainės">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Radiologija" label="Radiologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Sistemų teorija" label="Sistemų teorija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Reabilitologija" label="Reabilitologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Traumatologija" label="Traumatologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Oftalmologija" label="Oftalmologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Aplinkos chemija" label="Aplinkos chemija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Astrogeologija" label="Astrogeologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Jūrų geologija" label="Jūrų geologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Medicina" label="Medicina">
+        <attvalues>
+          <attvalue for="0" value="Biomedicinos mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Fizika" label="Fizika">
+        <attvalues>
+          <attvalue for="0" value="Fiziniai mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Odontologija" label="Odontologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Zoologija" label="Zoologija">
+        <attvalues>
+          <attvalue for="0" value="Biomedicinos mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Elementariųjų dalelių fizika" label="Elementariųjų dalelių fizika">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Informatika" label="Informatika">
+        <attvalues>
+          <attvalue for="0" value="Fiziniai mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Chemijos inžinerija" label="Chemijos inžinerija">
+        <attvalues>
+          <attvalue for="0" value="Technologijos mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Biologija" label="Biologija">
+        <attvalues>
+          <attvalue for="0" value="Biomedicinos mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Pedologija" label="Pedologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Andrologija" label="Andrologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Bioetika" label="Bioetika">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Vaizdų technologija" label="Vaizdų technologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Profesinė medicina" label="Profesinė medicina">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Veterinarinė medicina" label="Veterinarinė medicina">
+        <attvalues>
+          <attvalue for="0" value="Biomedicinos mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Biomechanika" label="Biomechanika">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Pašarininkystė" label="Pašarininkystė">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Optinės medžiagos" label="Optinės medžiagos">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Farmacija" label="Farmacija">
+        <attvalues>
+          <attvalue for="0" value="Biomedicinos mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Automatizavimas" label="Automatizavimas">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Akušerija" label="Akušerija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Chirurgija" label="Chirurgija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Statybos inžinerija" label="Statybos inžinerija">
+        <attvalues>
+          <attvalue for="0" value="Technologijos mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Kompiuterių mokslas" label="Kompiuterių mokslas">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Gerontologija" label="Gerontologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Ontogenezė" label="Ontogenezė">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Optikos ir fotonikos  inžinerija" label="Optikos ir fotonikos  inžinerija">
+        <attvalues>
+          <attvalue for="0" value="Technologijos mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Paleontologija" label="Paleontologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Biomedicinos inžinerija" label="Biomedicinos inžinerija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Embriologija" label="Embriologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Medžiagų inžinerija" label="Medžiagų inžinerija">
+        <attvalues>
+          <attvalue for="0" value="Technologijos mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Fiziologija" label="Fiziologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Anesteziologija" label="Anesteziologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Bionika" label="Bionika">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Hidrologija" label="Hidrologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Dirvotyra" label="Dirvotyra">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Grafų teorija" label="Grafų teorija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Okeanografija" label="Okeanografija">
+        <attvalues>
+          <attvalue for="0" value="Fiziniai mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Neurologija" label="Neurologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Biofizika" label="Biofizika">
+        <attvalues>
+          <attvalue for="0" value="Biomedicinos mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Urbanistika" label="Urbanistika">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Visuomenės sveikata" label="Visuomenės sveikata">
+        <attvalues>
+          <attvalue for="0" value="Biomedicinos mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Šeimos medicina" label="Šeimos medicina">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Astrofizika" label="Astrofizika">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Maisto žaliavos ir produktai" label="Maisto žaliavos ir produktai">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Entomologija" label="Entomologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Epidemiologija" label="Epidemiologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Imunologija" label="Imunologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Mikrobiologija" label="Mikrobiologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Onkologija" label="Onkologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Zootechnika" label="Zootechnika">
+        <attvalues>
+          <attvalue for="0" value="Žemės ūkio mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Elektros inžinerija" label="Elektros inžinerija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Akustikos inžinerija" label="Akustikos inžinerija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Patologija" label="Patologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Geoinformatika" label="Geoinformatika">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Geofizika" label="Geofizika">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Infektologija" label="Infektologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Astronomija" label="Astronomija">
+        <attvalues>
+          <attvalue for="0" value="Fiziniai mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Agrochemija" label="Agrochemija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Mechanikos inžinerija" label="Mechanikos inžinerija">
+        <attvalues>
+          <attvalue for="0" value="Technologijos mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Bioinformatika" label="Bioinformatika">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Histologija" label="Histologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Klimatologija" label="Klimatologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Geodezija" label="Geodezija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Geomorfologija" label="Geomorfologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Fizinė geografija" label="Fizinė geografija">
+        <attvalues>
+          <attvalue for="0" value="Fiziniai mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Civilinė inžinerija" label="Civilinė inžinerija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Elektros ir elektronikos inžinerija" label="Elektros ir elektronikos inžinerija">
+        <attvalues>
+          <attvalue for="0" value="Technologijos mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Polimerų technologija" label="Polimerų technologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Agronomija" label="Agronomija">
+        <attvalues>
+          <attvalue for="0" value="Žemės ūkio mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Telekomunikacijų inžinerija" label="Telekomunikacijų inžinerija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Plazmos fizika" label="Plazmos fizika">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Teratologija" label="Teratologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Chemija" label="Chemija">
+        <attvalues>
+          <attvalue for="0" value="Fiziniai mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Skaitinė analizė" label="Skaitinė analizė">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Aplinkos inžinerija ir kraštotvarka" label="Aplinkos inžinerija ir kraštotvarka">
+        <attvalues>
+          <attvalue for="0" value="Technologijos mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Matematika" label="Matematika">
+        <attvalues>
+          <attvalue for="0" value="Fiziniai mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Signalų technologija" label="Signalų technologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Sistemų teorija ir valdymas" label="Sistemų teorija ir valdymas">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Miškininkystė" label="Miškininkystė">
+        <attvalues>
+          <attvalue for="0" value="Žemės ūkio mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Morfologija" label="Morfologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Virusologija" label="Virusologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Bioenergetika" label="Bioenergetika">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Citologija" label="Citologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Reanimatologija" label="Reanimatologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Metrologija" label="Metrologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Fitopatologija" label="Fitopatologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Ekologija" label="Ekologija">
+        <attvalues>
+          <attvalue for="0" value="Biomedicinos mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Neuromokslai" label="Neuromokslai">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Astrobiologija" label="Astrobiologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Energetika ir termoinžinerija" label="Energetika ir termoinžinerija">
+        <attvalues>
+          <attvalue for="0" value="Technologijos mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Medžiagų technologija" label="Medžiagų technologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Farmakologija" label="Farmakologija">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Geotechnika" label="Geotechnika">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+      <node id="Biotechnologija ir bioinžinerija" label="Biotechnologija ir bioinžinerija">
+        <attvalues>
+          <attvalue for="0" value="Technologijos mokslai" />
+          <attvalue for="1" value="kryptis" />
+        </attvalues>
+      </node>
+      <node id="Genetika" label="Genetika">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="saka" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Lazerinė technologija" target="Optikos ir fotonikos  inžinerija" />
+      <edge id="1" source="Lazerinė technologija" target="Medžiagų inžinerija" />
+      <edge id="2" source="Lazerinė technologija" target="Matavimų inžinerija" />
+      <edge id="3" source="Botanika" target="Ontogenezė" />
+      <edge id="4" source="Botanika" target="Sistematika ir taksonomija" />
+      <edge id="5" source="Botanika" target="Fiziologija" />
+      <edge id="6" source="Botanika" target="Filogenezė" />
+      <edge id="7" source="Botanika" target="Genetika" />
+      <edge id="8" source="Botanika" target="Fitopatologija" />
+      <edge id="9" source="Botanika" target="Mikologija" />
+      <edge id="10" source="Geologija" target="Geoinformatika" />
+      <edge id="11" source="Geologija" target="Geofizika" />
+      <edge id="12" source="Geologija" target="Geomorfologija" />
+      <edge id="13" source="Geologija" target="Astrogeologija" />
+      <edge id="14" source="Geologija" target="Aplinkotyra" />
+      <edge id="15" source="Geologija" target="Pedologija" />
+      <edge id="16" source="Geologija" target="Jūrų geologija" />
+      <edge id="17" source="Geologija" target="Paleontologija" />
+      <edge id="18" source="Aplinkos fizika" target="Ekologija" />
+      <edge id="19" source="Aplinkos fizika" target="Fizika" />
+      <edge id="20" source="Aplinkos fizika" target="Aplinkos inžinerija ir kraštotvarka" />
+      <edge id="21" source="Karo inžinerija" target="Statybos inžinerija" />
+      <edge id="22" source="Karo inžinerija" target="Transporto inžinerija" />
+      <edge id="23" source="Slauga" target="Bioetika" />
+      <edge id="24" source="Slauga" target="Akušerija" />
+      <edge id="25" source="Slauga" target="Reabilitologija" />
+      <edge id="26" source="Slauga" target="Gerontologija" />
+      <edge id="27" source="Diferencialinės lygtys" target="Taikomoji matematika" />
+      <edge id="28" source="Diferencialinės lygtys" target="Matematika" />
+      <edge id="29" source="Toksikologija" target="Veterinarinė medicina" />
+      <edge id="30" source="Toksikologija" target="Medicina" />
+      <edge id="31" source="Matavimų inžinerija" target="Elektros inžinerija" />
+      <edge id="32" source="Matavimų inžinerija" target="Signalų technologija" />
+      <edge id="33" source="Matavimų inžinerija" target="Geodezija" />
+      <edge id="34" source="Reliatyvizmas" target="Astronomija" />
+      <edge id="35" source="Reliatyvizmas" target="Fizika" />
+      <edge id="36" source="Informatikos inžinerija" target="Telekomunikacijų inžinerija" />
+      <edge id="37" source="Informatikos inžinerija" target="Robotika" />
+      <edge id="38" source="Informatikos inžinerija" target="Automatizavimas" />
+      <edge id="39" source="Informatikos inžinerija" target="Kompiuterių mokslas" />
+      <edge id="40" source="Informatikos inžinerija" target="Sistemų teorija" />
+      <edge id="41" source="Matematinis programavimas" target="Taikomoji matematika" />
+      <edge id="42" source="Matematinis programavimas" target="Informatika" />
+      <edge id="43" source="Transporto inžinerija" target="Varikliai ir jėgainės" />
+      <edge id="44" source="Transporto inžinerija" target="Kosminė technologija" />
+      <edge id="45" source="Anatomija" target="Veterinarinė medicina" />
+      <edge id="46" source="Anatomija" target="Medicina" />
+      <edge id="47" source="Anatomija" target="Biologija" />
+      <edge id="48" source="Augalu genetika ir selekcija" target="Miškininkystė" />
+      <edge id="49" source="Augalu genetika ir selekcija" target="Agronomija" />
+      <edge id="50" source="Mikologija" target="Medicina" />
+      <edge id="51" source="Robotika" target="Elektros ir elektronikos inžinerija" />
+      <edge id="52" source="Pakavimo technologija" target="Mechanikos inžinerija" />
+      <edge id="53" source="Pakavimo technologija" target="Chemijos inžinerija" />
+      <edge id="54" source="Intensyvi terapija" target="Veterinarinė medicina" />
+      <edge id="55" source="Intensyvi terapija" target="Medicina" />
+      <edge id="56" source="Krantotyra" target="Okeanografija" />
+      <edge id="57" source="Krantotyra" target="Aplinkos inžinerija ir kraštotvarka" />
+      <edge id="58" source="Filogenezė" target="Zoologija" />
+      <edge id="59" source="Taikomoji matematika" target="Sistemų teorija ir valdymas" />
+      <edge id="60" source="Taikomoji matematika" target="Skaitinė analizė" />
+      <edge id="61" source="Taikomoji matematika" target="Kompiuterių mokslas" />
+      <edge id="62" source="Aplinkotyra" target="Ekologija" />
+      <edge id="63" source="Aplinkotyra" target="Okeanografija" />
+      <edge id="64" source="Aplinkotyra" target="Fizinė geografija" />
+      <edge id="65" source="Biochemija" target="Bioenergetika" />
+      <edge id="66" source="Sistematika ir taksonomija" target="Zoologija" />
+      <edge id="67" source="Kosminė technologija" target="Mechanikos inžinerija" />
+      <edge id="68" source="Astrochemija" target="Chemija" />
+      <edge id="69" source="Astrochemija" target="Astronomija" />
+      <edge id="70" source="Varikliai ir jėgainės" target="Energetika ir termoinžinerija" />
+      <edge id="71" source="Radiologija" target="Veterinarinė medicina" />
+      <edge id="72" source="Radiologija" target="Medicina" />
+      <edge id="73" source="Sistemų teorija" target="Elektros ir elektronikos inžinerija" />
+      <edge id="74" source="Reabilitologija" target="Medicina" />
+      <edge id="75" source="Traumatologija" target="Veterinarinė medicina" />
+      <edge id="76" source="Traumatologija" target="Medicina" />
+      <edge id="77" source="Oftalmologija" target="Veterinarinė medicina" />
+      <edge id="78" source="Oftalmologija" target="Medicina" />
+      <edge id="79" source="Aplinkos chemija" target="Ekologija" />
+      <edge id="80" source="Aplinkos chemija" target="Okeanografija" />
+      <edge id="81" source="Aplinkos chemija" target="Aplinkos inžinerija ir kraštotvarka" />
+      <edge id="82" source="Astrogeologija" target="Astronomija" />
+      <edge id="83" source="Jūrų geologija" target="Okeanografija" />
+      <edge id="84" source="Medicina" target="Embriologija" />
+      <edge id="85" source="Medicina" target="Fiziologija" />
+      <edge id="86" source="Medicina" target="Anesteziologija" />
+      <edge id="87" source="Medicina" target="Neurologija" />
+      <edge id="88" source="Medicina" target="Šeimos medicina" />
+      <edge id="89" source="Medicina" target="Citologija" />
+      <edge id="90" source="Medicina" target="Imunologija" />
+      <edge id="91" source="Medicina" target="Mikrobiologija" />
+      <edge id="92" source="Medicina" target="Onkologija" />
+      <edge id="93" source="Medicina" target="Andrologija" />
+      <edge id="94" source="Medicina" target="Bioetika" />
+      <edge id="95" source="Medicina" target="Morfologija" />
+      <edge id="96" source="Medicina" target="Profesinė medicina" />
+      <edge id="97" source="Medicina" target="Teratologija" />
+      <edge id="98" source="Medicina" target="Virusologija" />
+      <edge id="99" source="Medicina" target="Infektologija" />
+      <edge id="100" source="Medicina" target="Reanimatologija" />
+      <edge id="101" source="Medicina" target="Neuromokslai" />
+      <edge id="102" source="Medicina" target="Histologija" />
+      <edge id="103" source="Medicina" target="Akušerija" />
+      <edge id="104" source="Medicina" target="Chirurgija" />
+      <edge id="105" source="Medicina" target="Patologija" />
+      <edge id="106" source="Medicina" target="Gerontologija" />
+      <edge id="107" source="Medicina" target="Farmakologija" />
+      <edge id="108" source="Medicina" target="Odontologija" />
+      <edge id="109" source="Medicina" target="Genetika" />
+      <edge id="110" source="Fizika" target="Elementariųjų dalelių fizika" />
+      <edge id="111" source="Fizika" target="Geofizika" />
+      <edge id="112" source="Fizika" target="Metrologija" />
+      <edge id="113" source="Fizika" target="Astrofizika" />
+      <edge id="114" source="Fizika" target="Plazmos fizika" />
+      <edge id="115" source="Odontologija" target="Veterinarinė medicina" />
+      <edge id="116" source="Zoologija" target="Ontogenezė" />
+      <edge id="117" source="Zoologija" target="Entomologija" />
+      <edge id="118" source="Elementariųjų dalelių fizika" target="Astronomija" />
+      <edge id="119" source="Informatika" target="Sistemų teorija ir valdymas" />
+      <edge id="120" source="Informatika" target="Grafų teorija" />
+      <edge id="121" source="Informatika" target="Bioinformatika" />
+      <edge id="122" source="Informatika" target="Kompiuterių mokslas" />
+      <edge id="123" source="Chemijos inžinerija" target="Agrochemija" />
+      <edge id="124" source="Chemijos inžinerija" target="Polimerų technologija" />
+      <edge id="125" source="Biologija" target="Histologija" />
+      <edge id="126" source="Biologija" target="Citologija" />
+      <edge id="127" source="Biologija" target="Embriologija" />
+      <edge id="128" source="Biologija" target="Mikrobiologija" />
+      <edge id="129" source="Biologija" target="Imunologija" />
+      <edge id="130" source="Biologija" target="Virusologija" />
+      <edge id="131" source="Biologija" target="Astrobiologija" />
+      <edge id="132" source="Biologija" target="Fiziologija" />
+      <edge id="133" source="Biologija" target="Paleontologija" />
+      <edge id="134" source="Biologija" target="Neuromokslai" />
+      <edge id="135" source="Biologija" target="Bioetika" />
+      <edge id="136" source="Biologija" target="Morfologija" />
+      <edge id="137" source="Biologija" target="Bioinformatika" />
+      <edge id="138" source="Biologija" target="Genetika" />
+      <edge id="139" source="Pedologija" target="Fizinė geografija" />
+      <edge id="140" source="Andrologija" target="Veterinarinė medicina" />
+      <edge id="141" source="Bioetika" target="Veterinarinė medicina" />
+      <edge id="142" source="Bioetika" target="Zootechnika" />
+      <edge id="143" source="Bioetika" target="Visuomenės sveikata" />
+      <edge id="144" source="Vaizdų technologija" target="Optikos ir fotonikos  inžinerija" />
+      <edge id="145" source="Vaizdų technologija" target="Elektros ir elektronikos inžinerija" />
+      <edge id="146" source="Profesinė medicina" target="Visuomenės sveikata" />
+      <edge id="147" source="Veterinarinė medicina" target="Embriologija" />
+      <edge id="148" source="Veterinarinė medicina" target="Fiziologija" />
+      <edge id="149" source="Veterinarinė medicina" target="Anesteziologija" />
+      <edge id="150" source="Veterinarinė medicina" target="Neurologija" />
+      <edge id="151" source="Veterinarinė medicina" target="Citologija" />
+      <edge id="152" source="Veterinarinė medicina" target="Epidemiologija" />
+      <edge id="153" source="Veterinarinė medicina" target="Imunologija" />
+      <edge id="154" source="Veterinarinė medicina" target="Mikrobiologija" />
+      <edge id="155" source="Veterinarinė medicina" target="Onkologija" />
+      <edge id="156" source="Veterinarinė medicina" target="Morfologija" />
+      <edge id="157" source="Veterinarinė medicina" target="Teratologija" />
+      <edge id="158" source="Veterinarinė medicina" target="Virusologija" />
+      <edge id="159" source="Veterinarinė medicina" target="Infektologija" />
+      <edge id="160" source="Veterinarinė medicina" target="Reanimatologija" />
+      <edge id="161" source="Veterinarinė medicina" target="Histologija" />
+      <edge id="162" source="Veterinarinė medicina" target="Chirurgija" />
+      <edge id="163" source="Veterinarinė medicina" target="Patologija" />
+      <edge id="164" source="Veterinarinė medicina" target="Genetika" />
+      <edge id="165" source="Biomechanika" target="Mechanikos inžinerija" />
+      <edge id="166" source="Biomechanika" target="Biofizika" />
+      <edge id="167" source="Pašarininkystė" target="Zootechnika" />
+      <edge id="168" source="Pašarininkystė" target="Agronomija" />
+      <edge id="169" source="Optinės medžiagos" target="Optikos ir fotonikos  inžinerija" />
+      <edge id="170" source="Optinės medžiagos" target="Medžiagų inžinerija" />
+      <edge id="171" source="Farmacija" target="Farmakologija" />
+      <edge id="172" source="Automatizavimas" target="Mechanikos inžinerija" />
+      <edge id="173" source="Automatizavimas" target="Elektros ir elektronikos inžinerija" />
+      <edge id="174" source="Statybos inžinerija" target="Geodezija" />
+      <edge id="175" source="Statybos inžinerija" target="Medžiagų technologija" />
+      <edge id="176" source="Statybos inžinerija" target="Civilinė inžinerija" />
+      <edge id="177" source="Statybos inžinerija" target="Geotechnika" />
+      <edge id="178" source="Statybos inžinerija" target="Urbanistika" />
+      <edge id="179" source="Statybos inžinerija" target="Akustikos inžinerija" />
+      <edge id="180" source="Kompiuterių mokslas" target="Elektros ir elektronikos inžinerija" />
+      <edge id="181" source="Optikos ir fotonikos  inžinerija" target="Telekomunikacijų inžinerija" />
+      <edge id="182" source="Biomedicinos inžinerija" target="Biotechnologija ir bioinžinerija" />
+      <edge id="183" source="Biomedicinos inžinerija" target="Elektros ir elektronikos inžinerija" />
+      <edge id="184" source="Medžiagų inžinerija" target="Medžiagų technologija" />
+      <edge id="185" source="Medžiagų inžinerija" target="Polimerų technologija" />
+      <edge id="186" source="Bionika" target="Biotechnologija ir bioinžinerija" />
+      <edge id="187" source="Bionika" target="Biofizika" />
+      <edge id="188" source="Hidrologija" target="Okeanografija" />
+      <edge id="189" source="Hidrologija" target="Fizinė geografija" />
+      <edge id="190" source="Dirvotyra" target="Miškininkystė" />
+      <edge id="191" source="Dirvotyra" target="Agronomija" />
+      <edge id="192" source="Grafų teorija" target="Matematika" />
+      <edge id="193" source="Okeanografija" target="Klimatologija" />
+      <edge id="194" source="Urbanistika" target="Aplinkos inžinerija ir kraštotvarka" />
+      <edge id="195" source="Visuomenės sveikata" target="Epidemiologija" />
+      <edge id="196" source="Visuomenės sveikata" target="Šeimos medicina" />
+      <edge id="197" source="Astrofizika" target="Astronomija" />
+      <edge id="198" source="Maisto žaliavos ir produktai" target="Zootechnika" />
+      <edge id="199" source="Maisto žaliavos ir produktai" target="Agronomija" />
+      <edge id="200" source="Entomologija" target="Agronomija" />
+      <edge id="201" source="Elektros inžinerija" target="Mechanikos inžinerija" />
+      <edge id="202" source="Elektros inžinerija" target="Elektros ir elektronikos inžinerija" />
+      <edge id="203" source="Elektros inžinerija" target="Energetika ir termoinžinerija" />
+      <edge id="204" source="Akustikos inžinerija" target="Mechanikos inžinerija" />
+      <edge id="205" source="Geoinformatika" target="Fizinė geografija" />
+      <edge id="206" source="Geofizika" target="Fizinė geografija" />
+      <edge id="207" source="Astronomija" target="Astrobiologija" />
+      <edge id="208" source="Astronomija" target="Plazmos fizika" />
+      <edge id="209" source="Agrochemija" target="Agronomija" />
+      <edge id="210" source="Klimatologija" target="Fizinė geografija" />
+      <edge id="211" source="Geodezija" target="Aplinkos inžinerija ir kraštotvarka" />
+      <edge id="212" source="Geodezija" target="Fizinė geografija" />
+      <edge id="213" source="Geomorfologija" target="Fizinė geografija" />
+      <edge id="214" source="Civilinė inžinerija" target="Aplinkos inžinerija ir kraštotvarka" />
+      <edge id="215" source="Elektros ir elektronikos inžinerija" target="Signalų technologija" />
+      <edge id="216" source="Elektros ir elektronikos inžinerija" target="Telekomunikacijų inžinerija" />
+      <edge id="217" source="Agronomija" target="Fitopatologija" />
+      <edge id="218" source="Skaitinė analizė" target="Matematika" />
+      <edge id="219" source="Aplinkos inžinerija ir kraštotvarka" target="Geotechnika" />
+      <edge id="220" source="Bioenergetika" target="Biotechnologija ir bioinžinerija" />
+    </edges>
+  </graph>
+</gexf>

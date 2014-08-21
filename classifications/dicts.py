@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
 sritcode_to_name = {u'H': u'Humanitariniai mokslai',
@@ -7,13 +6,6 @@ sritcode_to_name = {u'H': u'Humanitariniai mokslai',
                     u'P': u'Fiziniai mokslai',
                     u'T': u'Technologijos mokslai',
                     u'A': u'Žemės ūkio mokslai'}
-
-
-
-
-
-
-
 
 #2011
 code_to_name =  {'01H':u'Filosofija',

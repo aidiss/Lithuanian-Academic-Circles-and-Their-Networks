@@ -36,8 +36,9 @@ Icon
 .Trashes
 
 htmls/
-DATA/
+data/
 LMT/
-THRASH/
+thrash/
+tables/
 www.mokslas.mii.lt/
 .ipynb_checkpoints/

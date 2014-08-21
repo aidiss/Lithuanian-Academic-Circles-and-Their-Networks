@@ -1,0 +1,1805 @@
+<?xml version="1.0" encoding="utf-8"?><gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="edge" mode="static">
+      <attribute id="9" title="edge_betweenness_centrality" type="double" />
+    </attributes>
+    <attributes class="node" mode="static">
+      <attribute id="0" title="betweenness_centrality" type="double" />
+      <attribute id="1" title="disertaciju" type="integer" />
+      <attribute id="2" title="load_centrality" type="double" />
+      <attribute id="3" title="in_degree_centrality" type="double" />
+      <attribute id="4" title="pagerank" type="double" />
+      <attribute id="5" title="keliuoseGynimuoseBuvo" type="integer" />
+      <attribute id="6" title="eigenvector_centrality_numpy" type="double" />
+      <attribute id="7" title="out_degree_centrality" type="double" />
+      <attribute id="8" title="degree_centrality" type="double" />
+    </attributes>
+    <nodes>
+      <node id="matavimu inzinerija" label="matavimu inzinerija">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.00363584426276" />
+          <attvalue for="5" value="16" />
+          <attvalue for="6" value="0.0642389044015" />
+          <attvalue for="7" value="0.133333333333" />
+          <attvalue for="8" value="0.133333333333" />
+        </attvalues>
+      </node>
+      <node id="chemijos inzinerija" label="chemijos inzinerija">
+        <attvalues>
+          <attvalue for="0" value="0.0397754900307" />
+          <attvalue for="1" value="34" />
+          <attvalue for="2" value="0.00151515151515" />
+          <attvalue for="3" value="0.177777777778" />
+          <attvalue for="4" value="0.0898718381954" />
+          <attvalue for="5" value="79" />
+          <attvalue for="6" value="0.251468592017" />
+          <attvalue for="7" value="0.244444444444" />
+          <attvalue for="8" value="0.422222222222" />
+        </attvalues>
+      </node>
+      <node id="informatikos inzinerija" label="informatikos inzinerija">
+        <attvalues>
+          <attvalue for="0" value="0.0406793587047" />
+          <attvalue for="1" value="53" />
+          <attvalue for="2" value="0.00475589225589" />
+          <attvalue for="3" value="0.177777777778" />
+          <attvalue for="4" value="0.042023508401" />
+          <attvalue for="5" value="84" />
+          <attvalue for="6" value="0.177092758865" />
+          <attvalue for="7" value="0.111111111111" />
+          <attvalue for="8" value="0.288888888889" />
+        </attvalues>
+      </node>
+      <node id="teologija" label="teologija">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.00363584426276" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="0.0025550448931" />
+          <attvalue for="7" value="0.0222222222222" />
+          <attvalue for="8" value="0.0222222222222" />
+        </attvalues>
+      </node>
+      <node id="veterinarija" label="veterinarija">
+        <attvalues>
+          <attvalue for="0" value="0.0072254288921" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="0.0220406445406" />
+          <attvalue for="3" value="0.111111111111" />
+          <attvalue for="4" value="0.0251148256205" />
+          <attvalue for="5" value="40" />
+          <attvalue for="6" value="0.239253749962" />
+          <attvalue for="7" value="0.133333333333" />
+          <attvalue for="8" value="0.244444444444" />
+        </attvalues>
+      </node>
+      <node id="istorija" label="istorija">
+        <attvalues>
+          <attvalue for="0" value="0.0118482990074" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="0.0348484848485" />
+          <attvalue for="3" value="0.0888888888889" />
+          <attvalue for="4" value="0.00891015049162" />
+          <attvalue for="5" value="13" />
+          <attvalue for="6" value="0.00750958401004" />
+          <attvalue for="7" value="0.0888888888889" />
+          <attvalue for="8" value="0.177777777778" />
+        </attvalues>
+      </node>
+      <node id="transporto inzinerija" label="transporto inzinerija">
+        <attvalues>
+          <attvalue for="0" value="0.0013437950938" />
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="0.00441919191919" />
+          <attvalue for="3" value="0.0666666666667" />
+          <attvalue for="4" value="0.0181049538283" />
+          <attvalue for="5" value="22" />
+          <attvalue for="6" value="0.0338372632913" />
+          <attvalue for="7" value="0.0888888888889" />
+          <attvalue for="8" value="0.155555555556" />
+        </attvalues>
+      </node>
+      <node id="energetika ir termoinzinerija" label="energetika ir termoinzinerija">
+        <attvalues>
+          <attvalue for="0" value="0.0273625097509" />
+          <attvalue for="1" value="45" />
+          <attvalue for="2" value="0.0165824915825" />
+          <attvalue for="3" value="0.155555555556" />
+          <attvalue for="4" value="0.0296899192289" />
+          <attvalue for="5" value="74" />
+          <attvalue for="6" value="0.0855826082389" />
+          <attvalue for="7" value="0.177777777778" />
+          <attvalue for="8" value="0.333333333333" />
+        </attvalues>
+      </node>
+      <node id="medziagu inzinerija" label="medziagu inzinerija">
+        <attvalues>
+          <attvalue for="0" value="0.0282036019536" />
+          <attvalue for="1" value="44" />
+          <attvalue for="2" value="0.0552332852333" />
+          <attvalue for="3" value="0.177777777778" />
+          <attvalue for="4" value="0.027948361692" />
+          <attvalue for="5" value="76" />
+          <attvalue for="6" value="0.157576206776" />
+          <attvalue for="7" value="0.155555555556" />
+          <attvalue for="8" value="0.333333333333" />
+        </attvalues>
+      </node>
+      <node id="mechanikos inzinerija" label="mechanikos inzinerija">
+        <attvalues>
+          <attvalue for="0" value="0.0380618015985" />
+          <attvalue for="1" value="55" />
+          <attvalue for="2" value="0.031955667789" />
+          <attvalue for="3" value="0.266666666667" />
+          <attvalue for="4" value="0.0376957945942" />
+          <attvalue for="5" value="80" />
+          <attvalue for="6" value="0.0729095937085" />
+          <attvalue for="7" value="0.177777777778" />
+          <attvalue for="8" value="0.444444444444" />
+        </attvalues>
+      </node>
+      <node id="vadyba" label="vadyba">
+        <attvalues>
+          <attvalue for="0" value="0.0728513679451" />
+          <attvalue for="1" value="70" />
+          <attvalue for="2" value="0.155109126984" />
+          <attvalue for="3" value="0.266666666667" />
+          <attvalue for="4" value="0.0406787805746" />
+          <attvalue for="5" value="105" />
+          <attvalue for="6" value="0.088479779839" />
+          <attvalue for="7" value="0.133333333333" />
+          <attvalue for="8" value="0.4" />
+        </attvalues>
+      </node>
+      <node id="filosofija" label="filosofija">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.00363584426276" />
+          <attvalue for="5" value="20" />
+          <attvalue for="6" value="0.0308320720994" />
+          <attvalue for="7" value="0.0888888888889" />
+          <attvalue for="8" value="0.0888888888889" />
+        </attvalues>
+      </node>
+      <node id="fizika" label="fizika">
+        <attvalues>
+          <attvalue for="0" value="0.031927008177" />
+          <attvalue for="1" value="16" />
+          <attvalue for="2" value="0.0399410774411" />
+          <attvalue for="3" value="0.0888888888889" />
+          <attvalue for="4" value="0.0122442787282" />
+          <attvalue for="5" value="47" />
+          <attvalue for="6" value="0.150935284888" />
+          <attvalue for="7" value="0.222222222222" />
+          <attvalue for="8" value="0.311111111111" />
+        </attvalues>
+      </node>
+      <node id="visuomenes sveikata" label="visuomenes sveikata">
+        <attvalues>
+          <attvalue for="0" value="0.0387157776213" />
+          <attvalue for="1" value="13" />
+          <attvalue for="2" value="0.0268939393939" />
+          <attvalue for="3" value="0.222222222222" />
+          <attvalue for="4" value="0.0396394373519" />
+          <attvalue for="5" value="40" />
+          <attvalue for="6" value="0.227886865362" />
+          <attvalue for="7" value="0.0666666666667" />
+          <attvalue for="8" value="0.288888888889" />
+        </attvalues>
+      </node>
+      <node id="filologija" label="filologija">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.00363584426276" />
+          <attvalue for="5" value="8" />
+          <attvalue for="6" value="0.0109731851096" />
+          <attvalue for="7" value="0.0666666666667" />
+          <attvalue for="8" value="0.0666666666667" />
+        </attvalues>
+      </node>
+      <node id="botanika" label="botanika">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.00363584426276" />
+          <attvalue for="5" value="15" />
+          <attvalue for="6" value="0.0524434281283" />
+          <attvalue for="7" value="0.0666666666667" />
+          <attvalue for="8" value="0.0666666666667" />
+        </attvalues>
+      </node>
+      <node id="fizine geografija" label="fizine geografija">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.00363584426276" />
+          <attvalue for="5" value="10" />
+          <attvalue for="6" value="0.0277644264015" />
+          <attvalue for="7" value="0.0888888888889" />
+          <attvalue for="8" value="0.0888888888889" />
+        </attvalues>
+      </node>
+      <node id="sociologija" label="sociologija">
+        <attvalues>
+          <attvalue for="0" value="0.0230711880712" />
+          <attvalue for="1" value="19" />
+          <attvalue for="2" value="0.020171957672" />
+          <attvalue for="3" value="0.2" />
+          <attvalue for="4" value="0.027233043541" />
+          <attvalue for="5" value="31" />
+          <attvalue for="6" value="0.0437572289149" />
+          <attvalue for="7" value="0.0888888888889" />
+          <attvalue for="8" value="0.288888888889" />
+        </attvalues>
+      </node>
+      <node id="menotyra" label="menotyra">
+        <attvalues>
+          <attvalue for="0" value="0.0233604673208" />
+          <attvalue for="1" value="24" />
+          <attvalue for="2" value="0.00400432900433" />
+          <attvalue for="3" value="0.155555555556" />
+          <attvalue for="4" value="0.0182341479515" />
+          <attvalue for="5" value="34" />
+          <attvalue for="6" value="0.0224111873874" />
+          <attvalue for="7" value="0.0444444444444" />
+          <attvalue for="8" value="0.2" />
+        </attvalues>
+      </node>
+      <node id="agronomija" label="agronomija">
+        <attvalues>
+          <attvalue for="0" value="0.0366346567294" />
+          <attvalue for="1" value="53" />
+          <attvalue for="2" value="0.0828282828283" />
+          <attvalue for="3" value="0.288888888889" />
+          <attvalue for="4" value="0.05379417751" />
+          <attvalue for="5" value="75" />
+          <attvalue for="6" value="0.131220650297" />
+          <attvalue for="7" value="0.133333333333" />
+          <attvalue for="8" value="0.422222222222" />
+        </attvalues>
+      </node>
+      <node id="ekologija ir aplinkotyra" label="ekologija ir aplinkotyra">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.00363584426276" />
+          <attvalue for="5" value="46" />
+          <attvalue for="6" value="0.148670739299" />
+          <attvalue for="7" value="0.0888888888889" />
+          <attvalue for="8" value="0.0888888888889" />
+        </attvalues>
+      </node>
+      <node id="politikos mokslai" label="politikos mokslai">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.00363584426276" />
+          <attvalue for="5" value="8" />
+          <attvalue for="6" value="0.0106850604" />
+          <attvalue for="7" value="0.0444444444444" />
+          <attvalue for="8" value="0.0444444444444" />
+        </attvalues>
+      </node>
+      <node id="statybos inzinerija" label="statybos inzinerija">
+        <attvalues>
+          <attvalue for="0" value="0.0305953109741" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="0.0437920875421" />
+          <attvalue for="3" value="0.177777777778" />
+          <attvalue for="4" value="0.0333057159667" />
+          <attvalue for="5" value="34" />
+          <attvalue for="6" value="0.0365202068196" />
+          <attvalue for="7" value="0.155555555556" />
+          <attvalue for="8" value="0.333333333333" />
+        </attvalues>
+      </node>
+      <node id="odontologija" label="odontologija">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0666666666667" />
+          <attvalue for="4" value="0.0163211737703" />
+          <attvalue for="5" value="11" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="0.0666666666667" />
+        </attvalues>
+      </node>
+      <node id="aplinkos inzinerija" label="aplinkos inzinerija">
+        <attvalues>
+          <attvalue for="0" value="0.0950124887665" />
+          <attvalue for="1" value="54" />
+          <attvalue for="2" value="0.115235690236" />
+          <attvalue for="3" value="0.422222222222" />
+          <attvalue for="4" value="0.0757897160757" />
+          <attvalue for="5" value="69" />
+          <attvalue for="6" value="0.0716076894617" />
+          <attvalue for="7" value="0.133333333333" />
+          <attvalue for="8" value="0.555555555556" />
+        </attvalues>
+      </node>
+      <node id="medicina" label="medicina">
+        <attvalues>
+          <attvalue for="0" value="0.133958614964" />
+          <attvalue for="1" value="90" />
+          <attvalue for="2" value="0.106218434343" />
+          <attvalue for="3" value="0.311111111111" />
+          <attvalue for="4" value="0.074780933149" />
+          <attvalue for="5" value="134" />
+          <attvalue for="6" value="0.27448905706" />
+          <attvalue for="7" value="0.288888888889" />
+          <attvalue for="8" value="0.6" />
+        </attvalues>
+      </node>
+      <node id="zoologija" label="zoologija">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.00363584426276" />
+          <attvalue for="5" value="4" />
+          <attvalue for="6" value="0.0136696756885" />
+          <attvalue for="7" value="0.0444444444444" />
+          <attvalue for="8" value="0.0444444444444" />
+        </attvalues>
+      </node>
+      <node id="chemija" label="chemija">
+        <attvalues>
+          <attvalue for="0" value="0.00886418524178" />
+          <attvalue for="1" value="38" />
+          <attvalue for="2" value="0.0226641414141" />
+          <attvalue for="3" value="0.155555555556" />
+          <attvalue for="4" value="0.0270178742203" />
+          <attvalue for="5" value="81" />
+          <attvalue for="6" value="0.265144130468" />
+          <attvalue for="7" value="0.155555555556" />
+          <attvalue for="8" value="0.311111111111" />
+        </attvalues>
+      </node>
+      <node id="ekonomika" label="ekonomika">
+        <attvalues>
+          <attvalue for="0" value="0.00922946109948" />
+          <attvalue for="1" value="42" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0222222222222" />
+          <attvalue for="4" value="0.0214182830565" />
+          <attvalue for="5" value="72" />
+          <attvalue for="6" value="0.0761741341185" />
+          <attvalue for="7" value="0.222222222222" />
+          <attvalue for="8" value="0.244444444444" />
+        </attvalues>
+      </node>
+      <node id="biofizika" label="biofizika">
+        <attvalues>
+          <attvalue for="0" value="0.00404117487451" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.030463664422" />
+          <attvalue for="3" value="0.0444444444444" />
+          <attvalue for="4" value="0.00555556739273" />
+          <attvalue for="5" value="19" />
+          <attvalue for="6" value="0.213350543094" />
+          <attvalue for="7" value="0.111111111111" />
+          <attvalue for="8" value="0.155555555556" />
+        </attvalues>
+      </node>
+      <node id="matematika" label="matematika">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.00363584426276" />
+          <attvalue for="5" value="9" />
+          <attvalue for="6" value="0.0529034299834" />
+          <attvalue for="7" value="0.133333333333" />
+          <attvalue for="8" value="0.133333333333" />
+        </attvalues>
+      </node>
+      <node id="zootechnika" label="zootechnika">
+        <attvalues>
+          <attvalue for="0" value="0.00185926727593" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="0.00658008658009" />
+          <attvalue for="3" value="0.111111111111" />
+          <attvalue for="4" value="0.0292067400988" />
+          <attvalue for="5" value="21" />
+          <attvalue for="6" value="0.0797885057017" />
+          <attvalue for="7" value="0.0888888888889" />
+          <attvalue for="8" value="0.2" />
+        </attvalues>
+      </node>
+      <node id="informatika" label="informatika">
+        <attvalues>
+          <attvalue for="0" value="0.00473084014751" />
+          <attvalue for="1" value="12" />
+          <attvalue for="2" value="0.0099859708193" />
+          <attvalue for="3" value="0.133333333333" />
+          <attvalue for="4" value="0.0168862756334" />
+          <attvalue for="5" value="52" />
+          <attvalue for="6" value="0.229669306236" />
+          <attvalue for="7" value="0.0888888888889" />
+          <attvalue for="8" value="0.222222222222" />
+        </attvalues>
+      </node>
+      <node id="biologija" label="biologija">
+        <attvalues>
+          <attvalue for="0" value="0.0446956977469" />
+          <attvalue for="1" value="16" />
+          <attvalue for="2" value="0.0998665223665" />
+          <attvalue for="3" value="0.133333333333" />
+          <attvalue for="4" value="0.022621830926" />
+          <attvalue for="5" value="109" />
+          <attvalue for="6" value="0.570405292798" />
+          <attvalue for="7" value="0.355555555556" />
+          <attvalue for="8" value="0.488888888889" />
+        </attvalues>
+      </node>
+      <node id="etnologija" label="etnologija">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.00363584426276" />
+          <attvalue for="5" value="10" />
+          <attvalue for="6" value="0.016590666112" />
+          <attvalue for="7" value="0.0444444444444" />
+          <attvalue for="8" value="0.0444444444444" />
+        </attvalues>
+      </node>
+      <node id="miskotyra" label="miskotyra">
+        <attvalues>
+          <attvalue for="0" value="0.011344720021" />
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="0.0548544973545" />
+          <attvalue for="3" value="0.2" />
+          <attvalue for="4" value="0.0126350901577" />
+          <attvalue for="5" value="12" />
+          <attvalue for="6" value="0.00780358280265" />
+          <attvalue for="7" value="0.0444444444444" />
+          <attvalue for="8" value="0.244444444444" />
+        </attvalues>
+      </node>
+      <node id="geologija" label="geologija">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.00363584426276" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="0.00269389867609" />
+          <attvalue for="7" value="0.0444444444444" />
+          <attvalue for="8" value="0.0444444444444" />
+        </attvalues>
+      </node>
+      <node id="elektros ir elektronikos inzinerija" label="elektros ir elektronikos inzinerija">
+        <attvalues>
+          <attvalue for="0" value="0.032960706005" />
+          <attvalue for="1" value="45" />
+          <attvalue for="2" value="0.0481397306397" />
+          <attvalue for="3" value="0.244444444444" />
+          <attvalue for="4" value="0.0318764141357" />
+          <attvalue for="5" value="78" />
+          <attvalue for="6" value="0.182702440493" />
+          <attvalue for="7" value="0.2" />
+          <attvalue for="8" value="0.444444444444" />
+        </attvalues>
+      </node>
+      <node id="edukologija" label="edukologija">
+        <attvalues>
+          <attvalue for="0" value="0.0981277240318" />
+          <attvalue for="1" value="87" />
+          <attvalue for="2" value="0.120650252525" />
+          <attvalue for="3" value="0.377777777778" />
+          <attvalue for="4" value="0.0500515834248" />
+          <attvalue for="5" value="106" />
+          <attvalue for="6" value="0.0750392683043" />
+          <attvalue for="7" value="0.133333333333" />
+          <attvalue for="8" value="0.511111111111" />
+        </attvalues>
+      </node>
+      <node id="astronomija" label="astronomija">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0222222222222" />
+          <attvalue for="4" value="0.00397157448376" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="0.0222222222222" />
+        </attvalues>
+      </node>
+      <node id="farmacija" label="farmacija">
+        <attvalues>
+          <attvalue for="0" value="0.0322721370867" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="0.108331830207" />
+          <attvalue for="3" value="0.2" />
+          <attvalue for="4" value="0.0248473526636" />
+          <attvalue for="5" value="21" />
+          <attvalue for="6" value="0.111939205919" />
+          <attvalue for="7" value="0.111111111111" />
+          <attvalue for="8" value="0.311111111111" />
+        </attvalues>
+      </node>
+      <node id="psichologija" label="psichologija">
+        <attvalues>
+          <attvalue for="0" value="0.0141270752256" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="0.0566308922559" />
+          <attvalue for="3" value="0.0444444444444" />
+          <attvalue for="4" value="0.0119486561345" />
+          <attvalue for="5" value="54" />
+          <attvalue for="6" value="0.164970576506" />
+          <attvalue for="7" value="0.133333333333" />
+          <attvalue for="8" value="0.177777777778" />
+        </attvalues>
+      </node>
+      <node id="slauga" label="slauga">
+        <attvalues>
+          <attvalue for="0" value="0.00448953823954" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0208754208754" />
+          <attvalue for="3" value="0.0666666666667" />
+          <attvalue for="4" value="0.00568191142069" />
+          <attvalue for="5" value="6" />
+          <attvalue for="6" value="0.0357011444116" />
+          <attvalue for="7" value="0.0666666666667" />
+          <attvalue for="8" value="0.133333333333" />
+        </attvalues>
+      </node>
+      <node id="biochemija" label="biochemija">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.00363584426276" />
+          <attvalue for="5" value="7" />
+          <attvalue for="6" value="0.0689506209957" />
+          <attvalue for="7" value="0.133333333333" />
+          <attvalue for="8" value="0.133333333333" />
+        </attvalues>
+      </node>
+      <node id="komunikacija ir informacija" label="komunikacija ir informacija">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0.00363584426276" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="0.00705764068768" />
+          <attvalue for="7" value="0.0666666666667" />
+          <attvalue for="8" value="0.0666666666667" />
+        </attvalues>
+      </node>
+      <node id="teise" label="teise">
+        <attvalues>
+          <attvalue for="0" value="0.00313535790809" />
+          <attvalue for="1" value="88" />
+          <attvalue for="2" value="0.0169844276094" />
+          <attvalue for="3" value="0.0888888888889" />
+          <attvalue for="4" value="0.0139982699022" />
+          <attvalue for="5" value="93" />
+          <attvalue for="6" value="0.0172596842497" />
+          <attvalue for="7" value="0.0444444444444" />
+          <attvalue for="8" value="0.133333333333" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="matavimu inzinerija" target="mechanikos inzinerija" weight="3">
+        <attvalues>
+          <attvalue for="9" value="0.000925925925926" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="matavimu inzinerija" target="elektros ir elektronikos inzinerija" weight="3">
+        <attvalues>
+          <attvalue for="9" value="0.00261674718196" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="matavimu inzinerija" target="energetika ir termoinzinerija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.00128824476651" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="matavimu inzinerija" target="statybos inzinerija" weight="3">
+        <attvalues>
+          <attvalue for="9" value="0.00229468599034" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="matavimu inzinerija" target="miskotyra" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.00346215780998" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="matavimu inzinerija" target="medicina" weight="3">
+        <attvalues>
+          <attvalue for="9" value="0.00487117552335" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="chemijos inzinerija" target="chemija" weight="9">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="chemijos inzinerija" target="veterinarija" weight="7">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="chemijos inzinerija" target="edukologija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00386473429952" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="chemijos inzinerija" target="agronomija" weight="5">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="chemijos inzinerija" target="zootechnika" weight="7">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="chemijos inzinerija" target="medziagu inzinerija" weight="3">
+        <attvalues>
+          <attvalue for="9" value="0.00130434782609" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="chemijos inzinerija" target="statybos inzinerija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00695652173913" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="chemijos inzinerija" target="aplinkos inzinerija" weight="4">
+        <attvalues>
+          <attvalue for="9" value="0.000338164251208" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="chemijos inzinerija" target="informatikos inzinerija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.00048309178744" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="chemijos inzinerija" target="farmacija" weight="3">
+        <attvalues>
+          <attvalue for="9" value="0.000869565217391" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="chemijos inzinerija" target="medicina" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.00260869565217" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="informatikos inzinerija" target="medicina" weight="5">
+        <attvalues>
+          <attvalue for="9" value="0.00734184495054" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="informatikos inzinerija" target="informatika" weight="6">
+        <attvalues>
+          <attvalue for="9" value="0.000463538072234" />
+        </attvalues>
+      </edge>
+      <edge id="19" source="informatikos inzinerija" target="mechanikos inzinerija" weight="9">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="informatikos inzinerija" target="edukologija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.0116310098919" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="informatikos inzinerija" target="elektros ir elektronikos inzinerija" weight="9">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="22" source="teologija" target="edukologija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0154589371981" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="veterinarija" target="chemijos inzinerija" weight="4">
+        <attvalues>
+          <attvalue for="9" value="0.006038647343" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="veterinarija" target="chemija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00907407407407" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="veterinarija" target="zootechnika" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00741948470209" />
+        </attvalues>
+      </edge>
+      <edge id="26" source="veterinarija" target="biologija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.0118115942029" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="veterinarija" target="aplinkos inzinerija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.00158212560386" />
+        </attvalues>
+      </edge>
+      <edge id="28" source="veterinarija" target="medicina" weight="16">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="29" source="istorija" target="sociologija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00386473429952" />
+        </attvalues>
+      </edge>
+      <edge id="30" source="istorija" target="menotyra" weight="3">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="31" source="istorija" target="edukologija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0369967793881" />
+        </attvalues>
+      </edge>
+      <edge id="32" source="istorija" target="teise" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.00744766505636" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="transporto inzinerija" target="aplinkos inzinerija" weight="5">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="transporto inzinerija" target="elektros ir elektronikos inzinerija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0121497584541" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="transporto inzinerija" target="mechanikos inzinerija" weight="5">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="transporto inzinerija" target="vadyba" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00714170692432" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="energetika ir termoinzinerija" target="transporto inzinerija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.0128260869565" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="energetika ir termoinzinerija" target="mechanikos inzinerija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.00178743961353" />
+        </attvalues>
+      </edge>
+      <edge id="39" source="energetika ir termoinzinerija" target="elektros ir elektronikos inzinerija" weight="4">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="40" source="energetika ir termoinzinerija" target="medziagu inzinerija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.0012077294686" />
+        </attvalues>
+      </edge>
+      <edge id="41" source="energetika ir termoinzinerija" target="statybos inzinerija" weight="8">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="42" source="energetika ir termoinzinerija" target="aplinkos inzinerija" weight="7">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="43" source="energetika ir termoinzinerija" target="miskotyra" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00623188405797" />
+        </attvalues>
+      </edge>
+      <edge id="44" source="energetika ir termoinzinerija" target="fizika" weight="3">
+        <attvalues>
+          <attvalue for="9" value="0.00736139866575" />
+        </attvalues>
+      </edge>
+      <edge id="45" source="medziagu inzinerija" target="chemijos inzinerija" weight="9">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="46" source="medziagu inzinerija" target="chemija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0170209339775" />
+        </attvalues>
+      </edge>
+      <edge id="47" source="medziagu inzinerija" target="mechanikos inzinerija" weight="10">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="48" source="medziagu inzinerija" target="statybos inzinerija" weight="4">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="49" source="medziagu inzinerija" target="aplinkos inzinerija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0097423510467" />
+        </attvalues>
+      </edge>
+      <edge id="50" source="medziagu inzinerija" target="medicina" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.04038647343" />
+        </attvalues>
+      </edge>
+      <edge id="51" source="medziagu inzinerija" target="fizika" weight="4">
+        <attvalues>
+          <attvalue for="9" value="0.0024154589372" />
+        </attvalues>
+      </edge>
+      <edge id="52" source="mechanikos inzinerija" target="transporto inzinerija" weight="6">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="53" source="mechanikos inzinerija" target="elektros ir elektronikos inzinerija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.00645502645503" />
+        </attvalues>
+      </edge>
+      <edge id="54" source="mechanikos inzinerija" target="informatika" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00400161030596" />
+        </attvalues>
+      </edge>
+      <edge id="55" source="mechanikos inzinerija" target="energetika ir termoinzinerija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.00884863123994" />
+        </attvalues>
+      </edge>
+      <edge id="56" source="mechanikos inzinerija" target="medziagu inzinerija" weight="3">
+        <attvalues>
+          <attvalue for="9" value="0.000845410628019" />
+        </attvalues>
+      </edge>
+      <edge id="57" source="mechanikos inzinerija" target="statybos inzinerija" weight="5">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="58" source="mechanikos inzinerija" target="aplinkos inzinerija" weight="3">
+        <attvalues>
+          <attvalue for="9" value="0.000402576489533" />
+        </attvalues>
+      </edge>
+      <edge id="59" source="mechanikos inzinerija" target="fizika" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.025318610536" />
+        </attvalues>
+      </edge>
+      <edge id="60" source="vadyba" target="visuomenes sveikata" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0145088566828" />
+        </attvalues>
+      </edge>
+      <edge id="61" source="vadyba" target="ekonomika" weight="18">
+        <attvalues>
+          <attvalue for="9" value="0.0207729468599" />
+        </attvalues>
+      </edge>
+      <edge id="62" source="vadyba" target="edukologija" weight="9">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="63" source="vadyba" target="farmacija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0847699562917" />
+        </attvalues>
+      </edge>
+      <edge id="64" source="vadyba" target="aplinkos inzinerija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.046231884058" />
+        </attvalues>
+      </edge>
+      <edge id="65" source="vadyba" target="teise" weight="4">
+        <attvalues>
+          <attvalue for="9" value="0.00197262479871" />
+        </attvalues>
+      </edge>
+      <edge id="66" source="filosofija" target="vadyba" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0144927536232" />
+        </attvalues>
+      </edge>
+      <edge id="67" source="filosofija" target="menotyra" weight="8">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="68" source="filosofija" target="sociologija" weight="6">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="69" source="filosofija" target="edukologija" weight="5">
+        <attvalues>
+          <attvalue for="9" value="0.000966183574879" />
+        </attvalues>
+      </edge>
+      <edge id="70" source="fizika" target="chemija" weight="5">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="71" source="fizika" target="elektros ir elektronikos inzinerija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.00148953301127" />
+        </attvalues>
+      </edge>
+      <edge id="72" source="fizika" target="edukologija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00884863123994" />
+        </attvalues>
+      </edge>
+      <edge id="73" source="fizika" target="astronomija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0212560386473" />
+        </attvalues>
+      </edge>
+      <edge id="74" source="fizika" target="agronomija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00660225442834" />
+        </attvalues>
+      </edge>
+      <edge id="75" source="fizika" target="energetika ir termoinzinerija" weight="10">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="76" source="fizika" target="medziagu inzinerija" weight="8">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="77" source="fizika" target="aplinkos inzinerija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00644122383253" />
+        </attvalues>
+      </edge>
+      <edge id="78" source="fizika" target="mechanikos inzinerija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00197262479871" />
+        </attvalues>
+      </edge>
+      <edge id="79" source="fizika" target="medicina" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00656199677939" />
+        </attvalues>
+      </edge>
+      <edge id="80" source="visuomenes sveikata" target="medicina" weight="23">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="81" source="visuomenes sveikata" target="sociologija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0180032206119" />
+        </attvalues>
+      </edge>
+      <edge id="82" source="visuomenes sveikata" target="farmacija" weight="3">
+        <attvalues>
+          <attvalue for="9" value="0.0229951690821" />
+        </attvalues>
+      </edge>
+      <edge id="83" source="filologija" target="istorija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0154589371981" />
+        </attvalues>
+      </edge>
+      <edge id="84" source="filologija" target="edukologija" weight="3">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="85" source="filologija" target="menotyra" weight="4">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="86" source="botanika" target="agronomija" weight="9">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="87" source="botanika" target="miskotyra" weight="3">
+        <attvalues>
+          <attvalue for="9" value="0.00748792270531" />
+        </attvalues>
+      </edge>
+      <edge id="88" source="botanika" target="farmacija" weight="3">
+        <attvalues>
+          <attvalue for="9" value="0.00797101449275" />
+        </attvalues>
+      </edge>
+      <edge id="89" source="fizine geografija" target="aplinkos inzinerija" weight="6">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="90" source="fizine geografija" target="miskotyra" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0118357487923" />
+        </attvalues>
+      </edge>
+      <edge id="91" source="fizine geografija" target="edukologija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.00169082125604" />
+        </attvalues>
+      </edge>
+      <edge id="92" source="fizine geografija" target="visuomenes sveikata" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00193236714976" />
+        </attvalues>
+      </edge>
+      <edge id="93" source="sociologija" target="visuomenes sveikata" weight="3">
+        <attvalues>
+          <attvalue for="9" value="0.00048309178744" />
+        </attvalues>
+      </edge>
+      <edge id="94" source="sociologija" target="menotyra" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0135691281343" />
+        </attvalues>
+      </edge>
+      <edge id="95" source="sociologija" target="edukologija" weight="3">
+        <attvalues>
+          <attvalue for="9" value="0.00887393604785" />
+        </attvalues>
+      </edge>
+      <edge id="96" source="sociologija" target="vadyba" weight="4">
+        <attvalues>
+          <attvalue for="9" value="0.0114780308259" />
+        </attvalues>
+      </edge>
+      <edge id="97" source="menotyra" target="aplinkos inzinerija" weight="5">
+        <attvalues>
+          <attvalue for="9" value="0.0137865194387" />
+        </attvalues>
+      </edge>
+      <edge id="98" source="menotyra" target="edukologija" weight="4">
+        <attvalues>
+          <attvalue for="9" value="0.0042270531401" />
+        </attvalues>
+      </edge>
+      <edge id="99" source="agronomija" target="chemijos inzinerija" weight="9">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="100" source="agronomija" target="veterinarija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0227053140097" />
+        </attvalues>
+      </edge>
+      <edge id="101" source="agronomija" target="farmacija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00789049919485" />
+        </attvalues>
+      </edge>
+      <edge id="102" source="agronomija" target="zootechnika" weight="3">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="103" source="agronomija" target="biologija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0726046698873" />
+        </attvalues>
+      </edge>
+      <edge id="104" source="agronomija" target="aplinkos inzinerija" weight="6">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="105" source="ekologija ir aplinkotyra" target="aplinkos inzinerija" weight="11">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="106" source="ekologija ir aplinkotyra" target="miskotyra" weight="9">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="107" source="ekologija ir aplinkotyra" target="visuomenes sveikata" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0154589371981" />
+        </attvalues>
+      </edge>
+      <edge id="108" source="ekologija ir aplinkotyra" target="agronomija" weight="25">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="109" source="politikos mokslai" target="sociologija" weight="7">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="110" source="politikos mokslai" target="istorija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0154589371981" />
+        </attvalues>
+      </edge>
+      <edge id="111" source="statybos inzinerija" target="transporto inzinerija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.0122624798712" />
+        </attvalues>
+      </edge>
+      <edge id="112" source="statybos inzinerija" target="mechanikos inzinerija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0161939268461" />
+        </attvalues>
+      </edge>
+      <edge id="113" source="statybos inzinerija" target="menotyra" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.00442028985507" />
+        </attvalues>
+      </edge>
+      <edge id="114" source="statybos inzinerija" target="vadyba" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0123993558776" />
+        </attvalues>
+      </edge>
+      <edge id="115" source="statybos inzinerija" target="informatika" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0093961352657" />
+        </attvalues>
+      </edge>
+      <edge id="116" source="statybos inzinerija" target="aplinkos inzinerija" weight="3">
+        <attvalues>
+          <attvalue for="9" value="0.000982286634461" />
+        </attvalues>
+      </edge>
+      <edge id="117" source="statybos inzinerija" target="informatikos inzinerija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.00251207729469" />
+        </attvalues>
+      </edge>
+      <edge id="118" source="aplinkos inzinerija" target="chemijos inzinerija" weight="6">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="119" source="aplinkos inzinerija" target="miskotyra" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0254106280193" />
+        </attvalues>
+      </edge>
+      <edge id="120" source="aplinkos inzinerija" target="agronomija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.0196457326892" />
+        </attvalues>
+      </edge>
+      <edge id="121" source="aplinkos inzinerija" target="zootechnika" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.020732689211" />
+        </attvalues>
+      </edge>
+      <edge id="122" source="aplinkos inzinerija" target="energetika ir termoinzinerija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.0229008511617" />
+        </attvalues>
+      </edge>
+      <edge id="123" source="aplinkos inzinerija" target="statybos inzinerija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.0347342995169" />
+        </attvalues>
+      </edge>
+      <edge id="124" source="medicina" target="visuomenes sveikata" weight="8">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="125" source="medicina" target="informatikos inzinerija" weight="3">
+        <attvalues>
+          <attvalue for="9" value="0.000563607085346" />
+        </attvalues>
+      </edge>
+      <edge id="126" source="medicina" target="istorija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.0193236714976" />
+        </attvalues>
+      </edge>
+      <edge id="127" source="medicina" target="odontologija" weight="8">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="128" source="medicina" target="elektros ir elektronikos inzinerija" weight="5">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="129" source="medicina" target="biofizika" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0471428571429" />
+        </attvalues>
+      </edge>
+      <edge id="130" source="medicina" target="edukologija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0183689901081" />
+        </attvalues>
+      </edge>
+      <edge id="131" source="medicina" target="farmacija" weight="3">
+        <attvalues>
+          <attvalue for="9" value="0.000402576489533" />
+        </attvalues>
+      </edge>
+      <edge id="132" source="medicina" target="slauga" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00898320680929" />
+        </attvalues>
+      </edge>
+      <edge id="133" source="medicina" target="informatika" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00824246606855" />
+        </attvalues>
+      </edge>
+      <edge id="134" source="medicina" target="biologija" weight="6">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="135" source="medicina" target="mechanikos inzinerija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0120105820106" />
+        </attvalues>
+      </edge>
+      <edge id="136" source="medicina" target="agronomija" weight="3">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="137" source="zoologija" target="miskotyra" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0118357487923" />
+        </attvalues>
+      </edge>
+      <edge id="138" source="zoologija" target="agronomija" weight="3">
+        <attvalues>
+          <attvalue for="9" value="0.0036231884058" />
+        </attvalues>
+      </edge>
+      <edge id="139" source="chemija" target="chemijos inzinerija" weight="19">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="140" source="chemija" target="informatikos inzinerija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0142512077295" />
+        </attvalues>
+      </edge>
+      <edge id="141" source="chemija" target="agronomija" weight="4">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="142" source="chemija" target="medziagu inzinerija" weight="8">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="143" source="chemija" target="aplinkos inzinerija" weight="4">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="144" source="chemija" target="vadyba" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0229549114332" />
+        </attvalues>
+      </edge>
+      <edge id="145" source="chemija" target="farmacija" weight="6">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="146" source="ekonomika" target="visuomenes sveikata" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.000845410628019" />
+        </attvalues>
+      </edge>
+      <edge id="147" source="ekonomika" target="miskotyra" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00314009661836" />
+        </attvalues>
+      </edge>
+      <edge id="148" source="ekonomika" target="sociologija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.00036231884058" />
+        </attvalues>
+      </edge>
+      <edge id="149" source="ekonomika" target="edukologija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0018115942029" />
+        </attvalues>
+      </edge>
+      <edge id="150" source="ekonomika" target="vadyba" weight="14">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="151" source="ekonomika" target="energetika ir termoinzinerija" weight="3">
+        <attvalues>
+          <attvalue for="9" value="0.00048309178744" />
+        </attvalues>
+      </edge>
+      <edge id="152" source="ekonomika" target="statybos inzinerija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00451690821256" />
+        </attvalues>
+      </edge>
+      <edge id="153" source="ekonomika" target="aplinkos inzinerija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.00048309178744" />
+        </attvalues>
+      </edge>
+      <edge id="154" source="ekonomika" target="farmacija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00333333333333" />
+        </attvalues>
+      </edge>
+      <edge id="155" source="ekonomika" target="teise" weight="3">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="156" source="biofizika" target="elektros ir elektronikos inzinerija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.00409592822636" />
+        </attvalues>
+      </edge>
+      <edge id="157" source="biofizika" target="agronomija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0157510927076" />
+        </attvalues>
+      </edge>
+      <edge id="158" source="biofizika" target="medicina" weight="8">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="159" source="biofizika" target="fizika" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0238739360478" />
+        </attvalues>
+      </edge>
+      <edge id="160" source="biofizika" target="biologija" weight="6">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="161" source="matematika" target="informatikos inzinerija" weight="4">
+        <attvalues>
+          <attvalue for="9" value="8.05152979066e-05" />
+        </attvalues>
+      </edge>
+      <edge id="162" source="matematika" target="elektros ir elektronikos inzinerija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00640096618357" />
+        </attvalues>
+      </edge>
+      <edge id="163" source="matematika" target="informatika" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00108695652174" />
+        </attvalues>
+      </edge>
+      <edge id="164" source="matematika" target="energetika ir termoinzinerija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00169082125604" />
+        </attvalues>
+      </edge>
+      <edge id="165" source="matematika" target="mechanikos inzinerija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.000966183574879" />
+        </attvalues>
+      </edge>
+      <edge id="166" source="matematika" target="medicina" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00523349436393" />
+        </attvalues>
+      </edge>
+      <edge id="167" source="zootechnika" target="aplinkos inzinerija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0114855072464" />
+        </attvalues>
+      </edge>
+      <edge id="168" source="zootechnika" target="chemijos inzinerija" weight="4">
+        <attvalues>
+          <attvalue for="9" value="0.00628019323671" />
+        </attvalues>
+      </edge>
+      <edge id="169" source="zootechnika" target="veterinarija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.00458937198068" />
+        </attvalues>
+      </edge>
+      <edge id="170" source="zootechnika" target="agronomija" weight="6">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="171" source="informatika" target="mechanikos inzinerija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.00233494363929" />
+        </attvalues>
+      </edge>
+      <edge id="172" source="informatika" target="elektros ir elektronikos inzinerija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.00992983666897" />
+        </attvalues>
+      </edge>
+      <edge id="173" source="informatika" target="informatikos inzinerija" weight="35">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="174" source="informatika" target="slauga" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.012576489533" />
+        </attvalues>
+      </edge>
+      <edge id="175" source="biologija" target="chemijos inzinerija" weight="7">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="176" source="biologija" target="mechanikos inzinerija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.0137462617897" />
+        </attvalues>
+      </edge>
+      <edge id="177" source="biologija" target="veterinarija" weight="12">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="178" source="biologija" target="odontologija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.0207729468599" />
+        </attvalues>
+      </edge>
+      <edge id="179" source="biologija" target="chemija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00257648953301" />
+        </attvalues>
+      </edge>
+      <edge id="180" source="biologija" target="slauga" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0191085806303" />
+        </attvalues>
+      </edge>
+      <edge id="181" source="biologija" target="edukologija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.0073268921095" />
+        </attvalues>
+      </edge>
+      <edge id="182" source="biologija" target="agronomija" weight="26">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="183" source="biologija" target="zootechnika" weight="7">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="184" source="biologija" target="medziagu inzinerija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0154186795491" />
+        </attvalues>
+      </edge>
+      <edge id="185" source="biologija" target="aplinkos inzinerija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.00115136876006" />
+        </attvalues>
+      </edge>
+      <edge id="186" source="biologija" target="miskotyra" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00477455716586" />
+        </attvalues>
+      </edge>
+      <edge id="187" source="biologija" target="vadyba" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00440533701403" />
+        </attvalues>
+      </edge>
+      <edge id="188" source="biologija" target="medicina" weight="25">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="189" source="biologija" target="elektros ir elektronikos inzinerija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0251690821256" />
+        </attvalues>
+      </edge>
+      <edge id="190" source="biologija" target="farmacija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0018115942029" />
+        </attvalues>
+      </edge>
+      <edge id="191" source="etnologija" target="edukologija" weight="5">
+        <attvalues>
+          <attvalue for="9" value="0.0142028985507" />
+        </attvalues>
+      </edge>
+      <edge id="192" source="etnologija" target="menotyra" weight="5">
+        <attvalues>
+          <attvalue for="9" value="0.00125603864734" />
+        </attvalues>
+      </edge>
+      <edge id="193" source="miskotyra" target="aplinkos inzinerija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.025" />
+        </attvalues>
+      </edge>
+      <edge id="194" source="miskotyra" target="medziagu inzinerija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0433816425121" />
+        </attvalues>
+      </edge>
+      <edge id="195" source="geologija" target="aplinkos inzinerija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0115942028986" />
+        </attvalues>
+      </edge>
+      <edge id="196" source="geologija" target="istorija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00386473429952" />
+        </attvalues>
+      </edge>
+      <edge id="197" source="elektros ir elektronikos inzinerija" target="informatikos inzinerija" weight="8">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="198" source="elektros ir elektronikos inzinerija" target="veterinarija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0144283413849" />
+        </attvalues>
+      </edge>
+      <edge id="199" source="elektros ir elektronikos inzinerija" target="vadyba" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0102369450196" />
+        </attvalues>
+      </edge>
+      <edge id="200" source="elektros ir elektronikos inzinerija" target="informatika" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00744766505636" />
+        </attvalues>
+      </edge>
+      <edge id="201" source="elektros ir elektronikos inzinerija" target="energetika ir termoinzinerija" weight="10">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="202" source="elektros ir elektronikos inzinerija" target="medziagu inzinerija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0132045088567" />
+        </attvalues>
+      </edge>
+      <edge id="203" source="elektros ir elektronikos inzinerija" target="statybos inzinerija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0154612376352" />
+        </attvalues>
+      </edge>
+      <edge id="204" source="elektros ir elektronikos inzinerija" target="mechanikos inzinerija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.00173107890499" />
+        </attvalues>
+      </edge>
+      <edge id="205" source="elektros ir elektronikos inzinerija" target="medicina" weight="8">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="206" source="edukologija" target="visuomenes sveikata" weight="5">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="207" source="edukologija" target="informatikos inzinerija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.00734299516908" />
+        </attvalues>
+      </edge>
+      <edge id="208" source="edukologija" target="sociologija" weight="6">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="209" source="edukologija" target="vadyba" weight="3">
+        <attvalues>
+          <attvalue for="9" value="0.0174028065332" />
+        </attvalues>
+      </edge>
+      <edge id="210" source="edukologija" target="psichologija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0705417529331" />
+        </attvalues>
+      </edge>
+      <edge id="211" source="edukologija" target="teise" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0353577179664" />
+        </attvalues>
+      </edge>
+      <edge id="212" source="farmacija" target="visuomenes sveikata" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00615942028986" />
+        </attvalues>
+      </edge>
+      <edge id="213" source="farmacija" target="chemijos inzinerija" weight="5">
+        <attvalues>
+          <attvalue for="9" value="0.00990338164251" />
+        </attvalues>
+      </edge>
+      <edge id="214" source="farmacija" target="agronomija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0595508396595" />
+        </attvalues>
+      </edge>
+      <edge id="215" source="farmacija" target="chemija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.0121578099839" />
+        </attvalues>
+      </edge>
+      <edge id="216" source="farmacija" target="biologija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.0364751552795" />
+        </attvalues>
+      </edge>
+      <edge id="217" source="psichologija" target="visuomenes sveikata" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00579710144928" />
+        </attvalues>
+      </edge>
+      <edge id="218" source="psichologija" target="sociologija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00591787439614" />
+        </attvalues>
+      </edge>
+      <edge id="219" source="psichologija" target="menotyra" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0045652173913" />
+        </attvalues>
+      </edge>
+      <edge id="220" source="psichologija" target="edukologija" weight="40">
+        <attvalues>
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge id="221" source="psichologija" target="vadyba" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.0261789740051" />
+        </attvalues>
+      </edge>
+      <edge id="222" source="psichologija" target="medicina" weight="5">
+        <attvalues>
+          <attvalue for="9" value="0.0262226823096" />
+        </attvalues>
+      </edge>
+      <edge id="223" source="slauga" target="visuomenes sveikata" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.00161030595813" />
+        </attvalues>
+      </edge>
+      <edge id="224" source="slauga" target="medicina" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.0221739130435" />
+        </attvalues>
+      </edge>
+      <edge id="225" source="slauga" target="sociologija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0110869565217" />
+        </attvalues>
+      </edge>
+      <edge id="226" source="biochemija" target="chemija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00217391304348" />
+        </attvalues>
+      </edge>
+      <edge id="227" source="biochemija" target="odontologija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00048309178744" />
+        </attvalues>
+      </edge>
+      <edge id="228" source="biochemija" target="biologija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.00116747181965" />
+        </attvalues>
+      </edge>
+      <edge id="229" source="biochemija" target="agronomija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00382447665056" />
+        </attvalues>
+      </edge>
+      <edge id="230" source="biochemija" target="biofizika" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00237520128824" />
+        </attvalues>
+      </edge>
+      <edge id="231" source="biochemija" target="medicina" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0054347826087" />
+        </attvalues>
+      </edge>
+      <edge id="232" source="komunikacija ir informacija" target="edukologija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.00217391304348" />
+        </attvalues>
+      </edge>
+      <edge id="233" source="komunikacija ir informacija" target="sociologija" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.000966183574879" />
+        </attvalues>
+      </edge>
+      <edge id="234" source="komunikacija ir informacija" target="vadyba" weight="1">
+        <attvalues>
+          <attvalue for="9" value="0.0123188405797" />
+        </attvalues>
+      </edge>
+      <edge id="235" source="teise" target="psichologija" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.00393719806763" />
+        </attvalues>
+      </edge>
+      <edge id="236" source="teise" target="vadyba" weight="2">
+        <attvalues>
+          <attvalue for="9" value="0.0350437083046" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
